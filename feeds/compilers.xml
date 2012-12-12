@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Compilers</title>
+    <link>https://class.coursera.org/compilers-2012-selfservice/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Alex Aiken</itunes:author>
+    <itunes:summary>This course will discuss the major ideas used today in the implementation of programming language compilers. You will learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines!</itunes:summary>
+    <description>This course will discuss the major ideas used today in the implementation of programming language compilers. You will learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines!</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/compilers/small-icon.hover.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/compilers.xml" type="application/rss+xml"/>
+    <item>
+      <title>01-01: Introduction</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-01-introduction%20%5B34f1d007%5D%20.mp4" length="9323553" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-01-introduction%20%5B34f1d007%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8m20s</itunes:duration>
+    </item>
+    <item>
+      <title>01-02: Structure Of A Compiler</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-02-structure-of-a-compiler%20%5B9438797f%5D%20.mp4" length="13575892" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-02-structure-of-a-compiler%20%5B9438797f%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m53s</itunes:duration>
+    </item>
+    <item>
+      <title>01-03: The Economy Of Programming Languages</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-03-the-economy-of-programming-languages%20%5B6cddee1c%5D%20.mp4" length="20123619" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F01-03-the-economy-of-programming-languages%20%5B6cddee1c%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19m51s</itunes:duration>
+    </item>
+    <item>
+      <title>02-01: Cool Overview</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-01-cool-overview%20%5Bad61ffab%5D%20.mp4" length="19490357" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-01-cool-overview%20%5Bad61ffab%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19m58s</itunes:duration>
+    </item>
+    <item>
+      <title>02-02: Cool Example Ii</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-02-cool-example-ii%20%5Bf861851e%5D%20.mp4" length="16556075" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-02-cool-example-ii%20%5Bf861851e%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15m04s</itunes:duration>
+    </item>
+    <item>
+      <title>02-03: Cool Example Iii</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-03-cool-example-iii%20%5Beae3a647%5D%20.mp4" length="21752367" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F02-03-cool-example-iii%20%5Beae3a647%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18m05s</itunes:duration>
+    </item>
+    <item>
+      <title>03-01: Lexical Analysis</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-01-lexical-analysis%20%5B4bc1ac74%5D%20.mp4" length="11868526" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-01-lexical-analysis%20%5B4bc1ac74%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12m06s</itunes:duration>
+    </item>
+    <item>
+      <title>03-02: Lexical Analysis Examples</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-02-lexical-analysis-examples%20%5Bde6af038%5D%20.mp4" length="14257239" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-02-lexical-analysis-examples%20%5Bde6af038%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m03s</itunes:duration>
+    </item>
+    <item>
+      <title>03-03: Regular Languages</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-03-regular-languages%20%5Bfda36022%5D%20.mp4" length="12200979" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-03-regular-languages%20%5Bfda36022%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12m36s</itunes:duration>
+    </item>
+    <item>
+      <title>03-04: Formal Languages</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-04-formal-languages%20%5B2bbf4415%5D%20.mp4" length="13785110" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-04-formal-languages%20%5B2bbf4415%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m40s</itunes:duration>
+    </item>
+    <item>
+      <title>03-05: Lexical Specifications</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-05-lexical-specifications%20%5B0bb336b2%5D%20.mp4" length="16029661" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F03-05-lexical-specifications%20%5B0bb336b2%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16m19s</itunes:duration>
+    </item>
+    <item>
+      <title>Deduceit Demo</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2FDeduceIt%20%5B0361e6b7%5D%20.mp4" length="11912333" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2FDeduceIt%20%5B0361e6b7%5D%20.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8m25s</itunes:duration>
+    </item>
+    <item>
+      <title>04-01: Lexical Specification</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-01-lexical-specification%20%5Bf10190b5%5D%20.mp4" length="15152782" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-01-lexical-specification%20%5Bf10190b5%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m30s</itunes:duration>
+    </item>
+    <item>
+      <title>04-02: Finite Automata</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-02-finite-automata%20%5B74e3137b%5D%20.mp4" length="23051995" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-02-finite-automata%20%5B74e3137b%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23m28s</itunes:duration>
+    </item>
+    <item>
+      <title>04-03: Regular Expressions Into Nfas</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-03-regular-expressions-to-nfas%20%5Bb35de914%5D%20.mp4" length="9359121" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-03-regular-expressions-to-nfas%20%5Bb35de914%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9m41s</itunes:duration>
+    </item>
+    <item>
+      <title>04-04: Nfa To Dfa</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-04-nfa-to-dfa%20%5Bfcf47809%5D%20.mp4" length="16020191" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-04-nfa-to-dfa%20%5Bfcf47809%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15m12s</itunes:duration>
+    </item>
+    <item>
+      <title>04-05: Implementing Finite Automata</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-05-implementing-finite-automata%20%5Bbbf35c4a%5D%20.mp4" length="12117223" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F04-05-implementing-finite-automata%20%5Bbbf35c4a%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m56s</itunes:duration>
+    </item>
+    <item>
+      <title>05-01: Introduction To Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-01-introduction-to-parsing%20%5B18a6db39%5D%20.mp4" length="5350051" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-01-introduction-to-parsing%20%5B18a6db39%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5m31s</itunes:duration>
+    </item>
+    <item>
+      <title>05-02: Context Free Grammars</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-02-context-free-grammars%20%5B4967bf02%5D%20.mp4" length="14238249" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-02-context-free-grammars%20%5B4967bf02%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m07s</itunes:duration>
+    </item>
+    <item>
+      <title>05-03: Derivations</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-03-derivations%20%5Bf6a28f97%5D%20.mp4" length="7709305" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-03-derivations%20%5Bf6a28f97%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m37s</itunes:duration>
+    </item>
+    <item>
+      <title>05-04: Ambiguity</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-04-ambiguity%20%5B3068048e%5D%20.mp4" length="18107139" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F05-04-ambiguity%20%5B3068048e%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17m35s</itunes:duration>
+    </item>
+    <item>
+      <title>06-01: Error Handling</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-01-error-handling%20%5Bfeddac8c%5D%20.mp4" length="12443652" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-01-error-handling%20%5Bfeddac8c%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m03s</itunes:duration>
+    </item>
+    <item>
+      <title>06-02: Abstract Syntax Trees</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-02-abstract-syntax-trees%20%5Bc41732f1%5D%20.mp4" length="3773993" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-02-abstract-syntax-trees%20%5Bc41732f1%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>3m50s</itunes:duration>
+    </item>
+    <item>
+      <title>06-03: Recursive Descent Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-03-recursive-descent-parsing%20%5Bf6edf2cd%5D%20.mp4" length="6366582" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-03-recursive-descent-parsing%20%5Bf6edf2cd%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m35s</itunes:duration>
+    </item>
+    <item>
+      <title>06-04: Recursive Descent Algorithm</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-04-recursive-descent-algorithm%20%5B0a176c67%5D%20.mp4" length="13659770" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-04-recursive-descent-algorithm%20%5B0a176c67%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m28s</itunes:duration>
+    </item>
+    <item>
+      <title>06-05: Left Recursion</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-05-left-recursion%20%5B8026bb47%5D%20.mp4" length="9369105" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F06-05-left-recursion%20%5B8026bb47%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9m11s</itunes:duration>
+    </item>
+    <item>
+      <title>07-01: Predictive Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-01-predictive-parsing%20%5B55650759%5D%20.mp4" length="20134845" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-01-predictive-parsing%20%5B55650759%5D%20.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19m37s</itunes:duration>
+    </item>
+    <item>
+      <title>07-02: First Sets</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-02-first-sets%20%5B0cf17c32%5D%20.mp4" length="14016619" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-02-first-sets%20%5B0cf17c32%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m02s</itunes:duration>
+    </item>
+    <item>
+      <title>07-03: Follow Sets</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-03-follow-sets%20%5Bbc8a44d6%5D%20.mp4" length="17678828" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-03-follow-sets%20%5Bbc8a44d6%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17m05s</itunes:duration>
+    </item>
+    <item>
+      <title>07-04: Ll1 Parsing Tables</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-04-ll1-parsing-tables%20%5Bbca1ef9e%5D%20.mp4" length="14509281" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-04-ll1-parsing-tables%20%5Bbca1ef9e%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m41s</itunes:duration>
+    </item>
+    <item>
+      <title>07-05: Bottom-up Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-05-bottom-up-parsing%20%5B6782b836%5D%20.mp4" length="7398290" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-05-bottom-up-parsing%20%5B6782b836%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m25s</itunes:duration>
+    </item>
+    <item>
+      <title>07-06: Shift-reduce Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-06-shift-reduce-parsing%20%5Bc1df438b%5D%20.mp4" length="7707737" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F07-06-shift-reduce-parsing%20%5Bc1df438b%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m37s</itunes:duration>
+    </item>
+    <item>
+      <title>08-01: Handles</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-01-handles%20%5B63fb9a88%5D%20.mp4" length="6846622" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-01-handles%20%5B63fb9a88%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m48s</itunes:duration>
+    </item>
+    <item>
+      <title>08-02: Recognizing Handles</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-02-recognizing-handles%20%5Bdfe0f96f%5D%20.mp4" length="13817023" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-02-recognizing-handles%20%5Bdfe0f96f%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m12s</itunes:duration>
+    </item>
+    <item>
+      <title>08-03: Recognizing Viable Prefixes</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-03-recognizing-viable-prefixes%20%5B1d00fe3f%5D%20.mp4" length="15350731" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-03-recognizing-viable-prefixes%20%5B1d00fe3f%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m57s</itunes:duration>
+    </item>
+    <item>
+      <title>08-04: Valid Items</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-04-valid-items%20%5Bb2b90cfb%5D%20.mp4" length="3905929" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-04-valid-items%20%5Bb2b90cfb%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>3m31s</itunes:duration>
+    </item>
+    <item>
+      <title>08-05: Slr Parsing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-05-slr-parsing%20%5B8d3ccf82%5D%20.mp4" length="15447836" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-05-slr-parsing%20%5B8d3ccf82%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14m16s</itunes:duration>
+    </item>
+    <item>
+      <title>08-06: Slr Parsing Example</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-06-slr-parsing-example%20%5Bc27846e0%5D%20.mp4" length="7681825" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-06-slr-parsing-example%20%5Bc27846e0%5D%20.mp4</guid>
+      <pubDate>Mon Feb 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m42s</itunes:duration>
+    </item>
+    <item>
+      <title>08-07: Slr Improvements</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-07-slr-improvements%20%5B409573bc%5D%20.mp4" length="11969597" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-07-slr-improvements%20%5B409573bc%5D%20.mp4</guid>
+      <pubDate>Tue Feb 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m49s</itunes:duration>
+    </item>
+    <item>
+      <title>08-08: Slr Examples</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-08-slr-examples%20%5Be4421f23%5D%20.mp4" length="13317397" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F08-08-slr-examples%20%5Be4421f23%5D%20.mp4</guid>
+      <pubDate>Wed Feb 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12m47s</itunes:duration>
+    </item>
+    <item>
+      <title>09-01: Introduction To Semantic Analysis</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-01-introduction-to-semantic-analysis%20%5B25e43146%5D%20.mp4" length="3564690" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-01-introduction-to-semantic-analysis%20%5B25e43146%5D%20.mp4</guid>
+      <pubDate>Thu Feb 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>3m42s</itunes:duration>
+    </item>
+    <item>
+      <title>09-02: Scope</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-02-scope%20%5Bf314bc65%5D%20.mp4" length="8211671" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-02-scope%20%5Bf314bc65%5D%20.mp4</guid>
+      <pubDate>Fri Feb 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8m09s</itunes:duration>
+    </item>
+    <item>
+      <title>09-03: Symbol Tables</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-03-symbol-tables%20%5Bde4c63d6%5D%20.mp4" length="11806436" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-03-symbol-tables%20%5Bde4c63d6%5D%20.mp4</guid>
+      <pubDate>Sat Feb 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m06s</itunes:duration>
+    </item>
+    <item>
+      <title>09-04: Types</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-04-types%20%5B045b25e7%5D%20.mp4" length="11670181" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-04-types%20%5B045b25e7%5D%20.mp4</guid>
+      <pubDate>Sun Feb 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m22s</itunes:duration>
+    </item>
+    <item>
+      <title>09-05: Type Checking</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-05-type-checking%20%5Bb6449ff7%5D%20.mp4" length="9179796" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-05-type-checking%20%5Bb6449ff7%5D%20.mp4</guid>
+      <pubDate>Mon Feb 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8m43s</itunes:duration>
+    </item>
+    <item>
+      <title>09-06: Type Environments</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-06-type-environments%20%5B67cac306%5D%20.mp4" length="12108576" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-06-type-environments%20%5B67cac306%5D%20.mp4</guid>
+      <pubDate>Tue Feb 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m43s</itunes:duration>
+    </item>
+    <item>
+      <title>09-07: Subtyping</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-07-subtyping%20%5B67f699a9%5D%20.mp4" length="11783814" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-07-subtyping%20%5B67f699a9%5D%20.mp4</guid>
+      <pubDate>Wed Feb 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11m35s</itunes:duration>
+    </item>
+    <item>
+      <title>09-08: Typing Methods</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-08-typing-methods%20%5Bdeeea12b%5D%20.mp4" length="8548707" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-08-typing-methods%20%5Bdeeea12b%5D%20.mp4</guid>
+      <pubDate>Thu Feb 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8m12s</itunes:duration>
+    </item>
+    <item>
+      <title>09-09: Implementing Type Checking</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-09-implementing-type-checking%20%5Baf2f2c7e%5D%20.mp4" length="6946770" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F09-09-implementing-type-checking%20%5Baf2f2c7e%5D%20.mp4</guid>
+      <pubDate>Fri Feb 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m57s</itunes:duration>
+    </item>
+    <item>
+      <title>10-01: Static Vs. Dynamic Typing</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-01-static-vs-dynamic-typing%20%5Be66d4a8e%5D%20.mp4" length="7183500" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-01-static-vs-dynamic-typing%20%5Be66d4a8e%5D%20.mp4</guid>
+      <pubDate>Sat Feb 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m14s</itunes:duration>
+    </item>
+    <item>
+      <title>10-02: Self Type</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-02-self-type%20%5B65965d9a%5D%20.mp4" length="7569984" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-02-self-type%20%5B65965d9a%5D%20.mp4</guid>
+      <pubDate>Sun Feb 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m36s</itunes:duration>
+    </item>
+    <item>
+      <title>10-03: Self Type Operations</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-03-self-type-operations%20%5B6466ddbc%5D%20.mp4" length="12465761" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-03-self-type-operations%20%5B6466ddbc%5D%20.mp4</guid>
+      <pubDate>Mon Feb 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12m12s</itunes:duration>
+    </item>
+    <item>
+      <title>10-04: Self Type Usage</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-04-self-type-usage%20%5B407ea30d%5D%20.mp4" length="6532294" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-04-self-type-usage%20%5B407ea30d%5D%20.mp4</guid>
+      <pubDate>Tue Feb 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m29s</itunes:duration>
+    </item>
+    <item>
+      <title>10-05: Self Type Checking</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-05-self-type-checking%20%5B3ca6cb36%5D%20.mp4" length="10375260" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-05-self-type-checking%20%5B3ca6cb36%5D%20.mp4</guid>
+      <pubDate>Wed Feb 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10m00s</itunes:duration>
+    </item>
+    <item>
+      <title>10-06: Error Recovery</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-06-error-recovery%20%5B1169591a%5D%20.mp4" length="6958499" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F10-06-error-recovery%20%5B1169591a%5D%20.mp4</guid>
+      <pubDate>Thu Feb 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m07s</itunes:duration>
+    </item>
+    <item>
+      <title>11-01: Runtime Organization</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-01-runtime-organization%20%5Bbffe074f%5D%20.mp4" length="6674609" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-01-runtime-organization%20%5Bbffe074f%5D%20.mp4</guid>
+      <pubDate>Fri Feb 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m44s</itunes:duration>
+    </item>
+    <item>
+      <title>11-02: Activations</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-02-activations%20%5Be5406a03%5D%20.mp4" length="13294301" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-02-activations%20%5Be5406a03%5D%20.mp4</guid>
+      <pubDate>Sat Feb 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m50s</itunes:duration>
+    </item>
+    <item>
+      <title>11-03: Activation Records</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-03-activation-records%20%5Be7e496bf%5D%20.mp4" length="13548125" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-03-activation-records%20%5Be7e496bf%5D%20.mp4</guid>
+      <pubDate>Sun Feb 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m11s</itunes:duration>
+    </item>
+    <item>
+      <title>11-04: Globals And Heap</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-04-globals-and-heap%20%5Bcffa3622%5D%20.mp4" length="7060563" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-04-globals-and-heap%20%5Bcffa3622%5D%20.mp4</guid>
+      <pubDate>Mon Feb 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m56s</itunes:duration>
+    </item>
+    <item>
+      <title>11-05: Alignment</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-05-alignment%20%5Bb30ebaf6%5D%20.mp4" length="6169630" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-05-alignment%20%5Bb30ebaf6%5D%20.mp4</guid>
+      <pubDate>Tue Mar 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6m04s</itunes:duration>
+    </item>
+    <item>
+      <title>11-06: Stack Machines</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-06-stack-machines%20%5B1cc6df68%5D%20.mp4" length="16607798" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F11-06-stack-machines%20%5B1cc6df68%5D%20.mp4</guid>
+      <pubDate>Wed Mar 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16m23s</itunes:duration>
+    </item>
+    <item>
+      <title>12-01: Introduction To Code Generation</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-01-introduction-to-code-generation%20%5B2f2b1e44%5D%20.mp4" length="7865143" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-01-introduction-to-code-generation%20%5B2f2b1e44%5D%20.mp4</guid>
+      <pubDate>Thu Mar 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m57s</itunes:duration>
+    </item>
+    <item>
+      <title>12-02: Code Generation I</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-02-code-generation-i%20%5Bb959d1d0%5D%20.mp4" length="17446117" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-02-code-generation-i%20%5Bb959d1d0%5D%20.mp4</guid>
+      <pubDate>Fri Mar 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17m26s</itunes:duration>
+    </item>
+    <item>
+      <title>12-03: Code Generation Ii</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-03-code-generation-ii%20%5Bbd9e10f1%5D%20.mp4" length="18074212" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-03-code-generation-ii%20%5Bbd9e10f1%5D%20.mp4</guid>
+      <pubDate>Sat Mar 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18m08s</itunes:duration>
+    </item>
+    <item>
+      <title>12-04: Code Generation Example</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-04-code-generation-example%20%5B652dc9e8%5D%20.mp4" length="15558721" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-04-code-generation-example%20%5B652dc9e8%5D%20.mp4</guid>
+      <pubDate>Sun Mar 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13m17s</itunes:duration>
+    </item>
+    <item>
+      <title>12-05: Temporaries</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-05-temporaries%20%5B460c0d21%5D%20.mp4" length="16395512" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-05-temporaries%20%5B460c0d21%5D%20.mp4</guid>
+      <pubDate>Mon Mar 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16m14s</itunes:duration>
+    </item>
+    <item>
+      <title>12-06: Object Layout</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-06-object-layout%20%5B97ed6aa4%5D%20.mp4" length="22973090" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F12-06-object-layout%20%5B97ed6aa4%5D%20.mp4</guid>
+      <pubDate>Tue Mar 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23m56s</itunes:duration>
+    </item>
+    <item>
+      <title>13-01: Semantics Overview</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-01-semantics-overview%20%5B1e4664f1%5D%20.mp4" length="6845870" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-01-semantics-overview%20%5B1e4664f1%5D%20.mp4</guid>
+      <pubDate>Wed Mar 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7m06s</itunes:duration>
+    </item>
+    <item>
+      <title>13-02: Operational Semantics</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-02-operational-semantics%20%5B1a116d35%5D%20.mp4" length="12296004" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-02-operational-semantics%20%5B1a116d35%5D%20.mp4</guid>
+      <pubDate>Thu Mar 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12m20s</itunes:duration>
+    </item>
+    <item>
+      <title>13-03: Cool Semantics I</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-03-cool-semantics-i%20%5B63e499bf%5D%20.mp4" length="21820435" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-03-cool-semantics-i%20%5B63e499bf%5D%20.mp4</guid>
+      <pubDate>Fri Mar 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21m10s</itunes:duration>
+    </item>
+    <item>
+      <title>13-04: Cool Semantics Ii</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-04-cool-semantics-ii%20%5B8b98394a%5D%20.mp4" length="27361227" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F13-04-cool-semantics-ii%20%5B8b98394a%5D%20.mp4</guid>
+      <pubDate>Sat Mar 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>26m13s</itunes:duration>
+    </item>
+    <item>
+      <title>14-01: Intermediate Code</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-01-intermediate-code%20%5B850a96c2%5D%20.mp4" length="8963199" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-01-intermediate-code%20%5B850a96c2%5D%20.mp4</guid>
+      <pubDate>Sun Mar 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9m03s</itunes:duration>
+    </item>
+    <item>
+      <title>14-02: Optimization Overview</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-02-optimization-overview%20%5B8735a6a9%5D%20.mp4" length="13459144" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-02-optimization-overview%20%5B8735a6a9%5D%20.mp4</guid>
+      <pubDate>Mon Mar 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13m37s</itunes:duration>
+    </item>
+    <item>
+      <title>14-03: Local Optimization</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-03-local-optimization%20%5Bd2e0296a%5D%20.mp4" length="26014541" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-03-local-optimization%20%5Bd2e0296a%5D%20.mp4</guid>
+      <pubDate>Tue Mar 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>25m35s</itunes:duration>
+    </item>
+    <item>
+      <title>14-04: Peephole Optimization</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-04-peephole-optimization%20%5Bfb5d3abb%5D%20.mp4" length="4672613" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F14-04-peephole-optimization%20%5Bfb5d3abb%5D%20.mp4</guid>
+      <pubDate>Wed Mar 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>4m29s</itunes:duration>
+    </item>
+    <item>
+      <title>15-01: Dataflow Analysis</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-01-dataflow-analysis%20%5B9f8c3394%5D%20.mp4" length="8193618" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-01-dataflow-analysis%20%5B9f8c3394%5D%20.mp4</guid>
+      <pubDate>Thu Mar 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8m02s</itunes:duration>
+    </item>
+    <item>
+      <title>15-02: Constant Propagation</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-02-constant-propagation%20%5Bd6cac463%5D%20.mp4" length="21319913" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-02-constant-propagation%20%5Bd6cac463%5D%20.mp4</guid>
+      <pubDate>Fri Mar 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>21m11s</itunes:duration>
+    </item>
+    <item>
+      <title>15-03: Analysis Of Loops</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-03-analysis-of-loops%20%5Bd7f30b0a%5D%20.mp4" length="7353295" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-03-analysis-of-loops%20%5Bd7f30b0a%5D%20.mp4</guid>
+      <pubDate>Sat Mar 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>7m22s</itunes:duration>
+    </item>
+    <item>
+      <title>15-04: Orderings</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-04-orderings%20%5Bd4c6ae3a%5D%20.mp4" length="6632986" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-04-orderings%20%5Bd4c6ae3a%5D%20.mp4</guid>
+      <pubDate>Sun Mar 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>6m34s</itunes:duration>
+    </item>
+    <item>
+      <title>15-05: Liveness Analysis</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-05-liveness-analysis%20%5Bba07a166%5D%20.mp4" length="14043991" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F15-05-liveness-analysis%20%5Bba07a166%5D%20.mp4</guid>
+      <pubDate>Mon Mar 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13m39s</itunes:duration>
+    </item>
+    <item>
+      <title>16-01: Register Allocation</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-01-register-allocation%20%5Bf6a157d9%5D%20.mp4" length="10307795" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-01-register-allocation%20%5Bf6a157d9%5D%20.mp4</guid>
+      <pubDate>Tue Mar 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9m56s</itunes:duration>
+    </item>
+    <item>
+      <title>16-02: Graph Coloring</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-02-graph-coloring%20%5B3889d1e2%5D%20.mp4" length="11417872" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-02-graph-coloring%20%5B3889d1e2%5D%20.mp4</guid>
+      <pubDate>Wed Mar 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12m07s</itunes:duration>
+    </item>
+    <item>
+      <title>16-03: Spilling</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-03-spilling%20%5B821028ea%5D%20.mp4" length="14356501" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-03-spilling%20%5B821028ea%5D%20.mp4</guid>
+      <pubDate>Thu Mar 24 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14m50s</itunes:duration>
+    </item>
+    <item>
+      <title>16-04: Managing Caches</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-04-managing-caches%20%5B1cd899bc%5D%20.mp4" length="10470310" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F16-04-managing-caches%20%5B1cd899bc%5D%20.mp4</guid>
+      <pubDate>Fri Mar 25 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10m37s</itunes:duration>
+    </item>
+    <item>
+      <title>17-01: Automatic Memory Management</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-01-automatic-memory-management%20%5Ba8a315d6%5D%20.mp4" length="15215319" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-01-automatic-memory-management%20%5Ba8a315d6%5D%20.mp4</guid>
+      <pubDate>Sat Mar 26 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14m53s</itunes:duration>
+    </item>
+    <item>
+      <title>17-02: Mark And Sweep</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-02-mark-and-sweep%20%5B41406fb2%5D%20.mp4" length="13274345" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-02-mark-and-sweep%20%5B41406fb2%5D%20.mp4</guid>
+      <pubDate>Sun Mar 27 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13m05s</itunes:duration>
+    </item>
+    <item>
+      <title>17-03: Stop And Copy</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-03-stop-and-copy%20%5B747d6585%5D%20.mp4" length="19464602" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-03-stop-and-copy%20%5B747d6585%5D%20.mp4</guid>
+      <pubDate>Mon Mar 28 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>19m03s</itunes:duration>
+    </item>
+    <item>
+      <title>17-04: Conservative Collection</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-04-conservative-collection%20%5B048ca3da%5D%20.mp4" length="3672778" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-04-conservative-collection%20%5B048ca3da%5D%20.mp4</guid>
+      <pubDate>Tue Mar 29 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>3m31s</itunes:duration>
+    </item>
+    <item>
+      <title>17-05: Reference Counting</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-05-reference-counting%20%5B0f66a23d%5D%20.mp4" length="15341452" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F17-05-reference-counting%20%5B0f66a23d%5D%20.mp4</guid>
+      <pubDate>Wed Mar 30 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15m23s</itunes:duration>
+    </item>
+    <item>
+      <title>18-01: Java</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-01-java%20%5B26ac7acf%5D%20.mp4" length="7097725" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-01-java%20%5B26ac7acf%5D%20.mp4</guid>
+      <pubDate>Thu Mar 31 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>7m21s</itunes:duration>
+    </item>
+    <item>
+      <title>18-02: Java Arrays</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-02-java-arrays%20%5Bab247767%5D%20.mp4" length="7875917" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-02-java-arrays%20%5Bab247767%5D%20.mp4</guid>
+      <pubDate>Fri Apr 01 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8m15s</itunes:duration>
+    </item>
+    <item>
+      <title>18-03: Java Exceptions</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-03-java-exceptions%20%5B3132bdb1%5D%20.mp4" length="13474569" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-03-java-exceptions%20%5B3132bdb1%5D%20.mp4</guid>
+      <pubDate>Sat Apr 02 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14m09s</itunes:duration>
+    </item>
+    <item>
+      <title>18-04: Java Interfaces</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-04-java-interfaces%20%5Bae5edb98%5D%20.mp4" length="8707471" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-04-java-interfaces%20%5Bae5edb98%5D%20.mp4</guid>
+      <pubDate>Sun Apr 03 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8m38s</itunes:duration>
+    </item>
+    <item>
+      <title>18-05: Java Coercions</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-05-java-coercions%20%5B7a53c9b7%5D%20.mp4" length="7858222" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-05-java-coercions%20%5B7a53c9b7%5D%20.mp4</guid>
+      <pubDate>Mon Apr 04 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>7m51s</itunes:duration>
+    </item>
+    <item>
+      <title>18-06: Java Threads</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-06-java-threads%20%5B91b95f6d%5D%20.mp4" length="20101964" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-06-java-threads%20%5B91b95f6d%5D%20.mp4</guid>
+      <pubDate>Tue Apr 05 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>18m36s</itunes:duration>
+    </item>
+    <item>
+      <title>18-07: Other Topics</title>
+      <itunes:author>Alex Aiken</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-07-other-topics%20%5Bcb200f6b%5D%20.mp4" length="14533531" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/compilers/recoded_videos%2F18-07-other-topics%20%5Bcb200f6b%5D%20.mp4</guid>
+      <pubDate>Wed Apr 06 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14m28s</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Neural Networks for Machine Learning</title>
+    <link>https://class.coursera.org/neuralnets-2012-001/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Geoffrey Hinton</itunes:author>
+    <itunes:summary>Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.</itunes:summary>
+    <description>Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/neuralnets/large-icon.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/neural_networks_for_machine_learning.xml" type="application/rss+xml"/>
+    <item>
+      <title>Why Do We Need Machine Learning? [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1a%20%5B54abbe2e%5D%20.mp4" length="15780632" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1a%20%5B54abbe2e%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>What Are Neural Networks? [8 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1b%20%5B725e5b33%5D%20.mp4" length="10229270" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1b%20%5B725e5b33%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Some Simple Models Of Neurons [8 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1c%20%5B52ab7e59%5D%20.mp4" length="9709814" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1c%20%5B52ab7e59%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Simple Example Of Learning [6 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1d%20%5B9f9bac64%5D%20.mp4" length="6890872" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1d%20%5B9f9bac64%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Three Types Of Learning [8 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1e%20%5B59e56eef%5D%20.mp4" length="9390541" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec1e%20%5B59e56eef%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Types Of Neural Network Architectures [7 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2a%20%5B0e480005%5D%20.mp4" length="9204729" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2a%20%5B0e480005%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Perceptrons: The First Generation Of Neural Networks [8 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2b%20%5Bb2e7d232%5D%20.mp4" length="9845339" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2b%20%5Bb2e7d232%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Geometrical View Of Perceptrons [6 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2c%20%5Bbe6f4454%5D%20.mp4" length="7680604" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2c%20%5Bbe6f4454%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Why The Learning Works [5 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2d%20%5Bf1ae9e46%5D%20.mp4" length="6183158" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2d%20%5Bf1ae9e46%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>What Perceptrons Can&#39;t Do [15 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2e%20%5B8cbd6012%5D%20.mp4" length="17379578" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec2e%20%5B8cbd6012%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning The Weights Of A Linear Neuron [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3a%20%5Ba0ecfa96%5D%20.mp4" length="14175318" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3a%20%5Ba0ecfa96%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Error Surface For A Linear Neuron [5 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3b%20%5Bbcc10fc2%5D%20.mp4" length="6178046" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3b%20%5Bbcc10fc2%5D%20.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning The Weights Of A Logistic Output Neuron [4 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3c%20%5B5ac637d1%5D%20.mp4" length="4585546" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3c%20%5B5ac637d1%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Backpropagation Algorithm [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3d%20%5Beaaba610%5D%20.mp4" length="14002453" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3d%20%5Beaaba610%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Using The Derivatives Computed By Backpropagation [10 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3e%20%5B2dbecc59%5D%20.mp4" length="11695094" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec3e%20%5B2dbecc59%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning To Predict The Next Word [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4a%20%5B199f7e86%5D%20.mp4" length="14968778" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4a%20%5B199f7e86%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Brief Diversion Into Cognitive Science [4 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4b%20%5Bb6788b94%5D%20.mp4" length="5567597" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4b%20%5Bb6788b94%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Another Diversion: The Softmax Output Function [7 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4c%20%5B049d0086%5D%20.mp4" length="8421510" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4c%20%5B049d0086%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Neuro-probabilistic Language Models [8 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4d%20%5B33a6ec3b%5D%20.mp4" length="9367271" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4d%20%5B33a6ec3b%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Ways To Deal With The Large Number Of Possible Outputs [15 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4e_edited%20%5B35a99e3e%5D%20.mp4" length="14949365" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec4e_edited%20%5B35a99e3e%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Why Object Recognition Is Difficult [5 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5a%20%5Bb5df2490%5D%20.mp4" length="5632564" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5a%20%5Bb5df2490%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Achieving Viewpoint Invariance [6 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5b%20%5Bbe1cdce6%5D%20.mp4" length="7229531" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5b%20%5Bbe1cdce6%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Convolutional Nets For Digit Recognition [16 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5c%20%5B2b0fd608%5D%20.mp4" length="19355865" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5c%20%5B2b0fd608%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Convolutional Nets For Object Recognition [17min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5d%20%5B1e8973a8%5D%20.mp4" length="24149887" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec5d%20%5B1e8973a8%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Overview Of Mini-batch Gradient Descent</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6a%20%5B30d1ca51%5D%20.mp4" length="10069225" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6a%20%5B30d1ca51%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Bag Of Tricks For Mini-batch Gradient Descent</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6b%20%5Bcfc2ade6%5D%20.mp4" length="15620528" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6b%20%5Bcfc2ade6%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Momentum Method</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6c%20%5Bd3605856%5D%20.mp4" length="10214147" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6c%20%5Bd3605856%5D%20.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Adaptive Learning Rates For Each Connection</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6d%20%5Bb19ddbca%5D%20.mp4" length="6950215" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6d%20%5Bb19ddbca%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Rmsprop: Divide The Gradient By A Running Average Of Its Recent Magnitude</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6e%20%5B9e02a29d%5D%20.mp4" length="15854452" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec6e%20%5B9e02a29d%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Modeling Sequences: A Brief Overview</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7a%20%5Bec861b28%5D%20.mp4" length="21108426" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7a%20%5Bec861b28%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Training Rnns With Back Propagation</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7b%20%5Bafcdac18%5D%20.mp4" length="7683390" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7b%20%5Bafcdac18%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Toy Example Of Training An Rnn</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7c%20%5Bcf3b8a53%5D%20.mp4" length="7588939" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7c%20%5Bcf3b8a53%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Why It Is Difficult To Train An Rnn</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7d%20%5Bbf7fa336%5D%20.mp4" length="9318390" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7d%20%5Bbf7fa336%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Long-term Short-term-memory</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7e%20%5Bad55fd49%5D%20.mp4" length="10727081" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec7e%20%5Bad55fd49%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>A Brief Overview Of Hessian Free Optimization</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8a%20%5Bca194548%5D%20.mp4" length="17025641" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8a%20%5Bca194548%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Modeling Character Strings With Multiplicative Connections [14 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8b%20%5Bb1d793a7%5D%20.mp4" length="17363538" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8b%20%5Bb1d793a7%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning To Predict The Next Character Using Hf [12  Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8c%20%5B5488b10a%5D%20.mp4" length="14596782" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8c%20%5B5488b10a%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Echo State Networks [9 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8d%20%5Ba521a9cb%5D%20.mp4" length="11824778" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec8d%20%5Ba521a9cb%5D%20.mp4</guid>
+      <pubDate>Mon Feb 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Overview Of Ways To Improve Generalization [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9a%20%5B418e90a6%5D%20.mp4" length="14230076" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9a%20%5B418e90a6%5D%20.mp4</guid>
+      <pubDate>Tue Feb 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Limiting The Size Of The Weights [6 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9b%20%5Baff796e1%5D%20.mp4" length="7720224" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9b%20%5Baff796e1%5D%20.mp4</guid>
+      <pubDate>Wed Feb 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Using Noise As A Regularizer [7 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9c%20%5B300e72a8%5D%20.mp4" length="8895901" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9c%20%5B300e72a8%5D%20.mp4</guid>
+      <pubDate>Thu Feb 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Introduction To The Full Bayesian Approach [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9d%20%5B615e1bce%5D%20.mp4" length="12585290" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9d%20%5B615e1bce%5D%20.mp4</guid>
+      <pubDate>Fri Feb 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Bayesian Interpretation Of Weight Decay [11 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9e%20%5Bd6bd9cc2%5D%20.mp4" length="12868006" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9e%20%5Bd6bd9cc2%5D%20.mp4</guid>
+      <pubDate>Sat Feb 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Mackay&#39;s Quick And Dirty Method Of Setting Weight Costs [4 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9f%20%5B6265efee%5D%20.mp4" length="4587348" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec9f%20%5B6265efee%5D%20.mp4</guid>
+      <pubDate>Sun Feb 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Why It Helps To Combine Models [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10a%20%5Be5a501a4%5D%20.mp4" length="15857098" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10a%20%5Be5a501a4%5D%20.mp4</guid>
+      <pubDate>Mon Feb 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Mixtures Of Experts [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10b%20%5Bb6720a94%5D%20.mp4" length="15708749" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10b%20%5Bb6720a94%5D%20.mp4</guid>
+      <pubDate>Tue Feb 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Idea Of Full Bayesian Learning [7 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10c%20%5B6a24b4b9%5D%20.mp4" length="8802557" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10c%20%5B6a24b4b9%5D%20.mp4</guid>
+      <pubDate>Wed Feb 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Making Full Bayesian Learning Practical [7 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10d%20%5B3dfe523c%5D%20.mp4" length="8527322" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10d%20%5B3dfe523c%5D%20.mp4</guid>
+      <pubDate>Thu Feb 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dropout [9 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10e%20%5Bc53f0b86%5D%20.mp4" length="10157806" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec10e%20%5Bc53f0b86%5D%20.mp4</guid>
+      <pubDate>Fri Feb 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Hopfield Nets [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11a%20%5B60e4291c%5D%20.mp4" length="15358182" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11a%20%5B60e4291c%5D%20.mp4</guid>
+      <pubDate>Sat Feb 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dealing With Spurious Minima [11 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11b%20%5Be57201d5%5D%20.mp4" length="13390603" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11b%20%5Be57201d5%5D%20.mp4</guid>
+      <pubDate>Sun Feb 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Hopfield Nets With Hidden Units [10 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11c%20%5B412d8773%5D%20.mp4" length="11859058" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11c%20%5B412d8773%5D%20.mp4</guid>
+      <pubDate>Mon Feb 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Using Stochastic Units To Improv Search [11 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11d%20%5Bf1928c99%5D%20.mp4" length="12336218" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11d%20%5Bf1928c99%5D%20.mp4</guid>
+      <pubDate>Tue Feb 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>How A Boltzmann Machine Models Data [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11e%20%5Ba024eebe%5D%20.mp4" length="13929576" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec11e%20%5Ba024eebe%5D%20.mp4</guid>
+      <pubDate>Wed Feb 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Boltzmann Machine Learning [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12a%20%5B4a7c4f48%5D%20.mp4" length="14707340" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12a%20%5B4a7c4f48%5D%20.mp4</guid>
+      <pubDate>Thu Feb 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional Video: More Efficient Ways To Get The Statistics [15 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12b%20%5Bd7d506ff%5D%20.mp4" length="17755137" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12b%20%5Bd7d506ff%5D%20.mp4</guid>
+      <pubDate>Fri Feb 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Restricted Boltzmann Machines [11 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12c%20%5B814352f8%5D%20.mp4" length="13292236" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12c%20%5B814352f8%5D%20.mp4</guid>
+      <pubDate>Sat Feb 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>An Example Of Rbm Learning [7 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12d%20%5B1e00ecb7%5D%20.mp4" length="9128653" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12d%20%5B1e00ecb7%5D%20.mp4</guid>
+      <pubDate>Sun Feb 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Rbms For Collaborative Filtering [8 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12e%20%5B46c8f4f1%5D%20.mp4" length="9995814" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec12e%20%5B46c8f4f1%5D%20.mp4</guid>
+      <pubDate>Mon Feb 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Ups And Downs Of Back Propagation [10 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13a%20%5Baad782f1%5D%20.mp4" length="12404385" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13a%20%5Baad782f1%5D%20.mp4</guid>
+      <pubDate>Tue Mar 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Belief Nets [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13b%20%5B6ca6b814%5D%20.mp4" length="15578582" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13b%20%5B6ca6b814%5D%20.mp4</guid>
+      <pubDate>Wed Mar 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Sigmoid Belief Nets [12 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13c%20%5B9c859a0f%5D%20.mp4" length="14253082" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13c%20%5B9c859a0f%5D%20.mp4</guid>
+      <pubDate>Thu Mar 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Wake-sleep Algorithm [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13d%20%5B1a38fa34%5D%20.mp4" length="16436894" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec13d%20%5B1a38fa34%5D%20.mp4</guid>
+      <pubDate>Fri Mar 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Layers Of Features By Stacking Rbms [17 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14a%20%5Bf07f2df8%5D%20.mp4" length="21039882" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14a%20%5Bf07f2df8%5D%20.mp4</guid>
+      <pubDate>Sat Mar 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Discriminative Learning For Dbns [9 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14b%20%5B6544b226%5D%20.mp4" length="11835643" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14b%20%5B6544b226%5D%20.mp4</guid>
+      <pubDate>Sun Mar 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>What Happens During Discriminative Fine-tuning? [8 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14c%20%5B8f4e8d03%5D%20.mp4" length="10669080" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14c%20%5B8f4e8d03%5D%20.mp4</guid>
+      <pubDate>Mon Mar 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Modeling Real-valued Data With An Rbm [10 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14d%20%5B28c14ba1%5D%20.mp4" length="11743440" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14d%20%5B28c14ba1%5D%20.mp4</guid>
+      <pubDate>Tue Mar 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional Video: Rbms Are Infinite Sigmoid Belief Nets [17 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14e%20%5B399367fc%5D%20.mp4" length="20381634" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec14e%20%5B399367fc%5D%20.mp4</guid>
+      <pubDate>Wed Mar 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>From Pca To Autoencoders [5 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15a%20%5B1b73a3c1%5D%20.mp4" length="10150620" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15a%20%5B1b73a3c1%5D%20.mp4</guid>
+      <pubDate>Thu Mar 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Deep Auto Encoders [4 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15b%20%5B12ee9cfb%5D%20.mp4" length="5162968" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15b%20%5B12ee9cfb%5D%20.mp4</guid>
+      <pubDate>Fri Mar 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Deep Auto Encoders For Document Retrieval [8 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15c%20%5B3095c66e%5D%20.mp4" length="10742915" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15c%20%5B3095c66e%5D%20.mp4</guid>
+      <pubDate>Sat Mar 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Semantic Hashing [9 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15d%20%5B529af261%5D%20.mp4" length="10471702" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15d%20%5B529af261%5D%20.mp4</guid>
+      <pubDate>Sun Mar 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Binary Codes For Image Retrieval [9 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15e%20%5B3ce78c07%5D%20.mp4" length="12064278" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15e%20%5B3ce78c07%5D%20.mp4</guid>
+      <pubDate>Mon Mar 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Shallow Autoencoders For Pre-training [7 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15f%20%5Bb6dad730%5D%20.mp4" length="8654041" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec15f%20%5Bb6dad730%5D%20.mp4</guid>
+      <pubDate>Tue Mar 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional: Learning A Joint Model Of Images And Captions [10 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16a%20%5B705d7984%5D%20.mp4" length="14500525" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16a%20%5B705d7984%5D%20.mp4</guid>
+      <pubDate>Wed Mar 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional: Hierarchical Coordinate Frames [10 Mins]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16b%20%5B985f4158%5D%20.mp4" length="11701204" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16b%20%5B985f4158%5D%20.mp4</guid>
+      <pubDate>Thu Mar 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional: Bayesian Optimization Of Hyper-parameters [13 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16c%20%5Be6ac2ea3%5D%20.mp4" length="16565083" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16c%20%5Be6ac2ea3%5D%20.mp4</guid>
+      <pubDate>Fri Mar 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Optional: The Fog Of Progress [3 Min]</title>
+      <itunes:author>Geoffrey Hinton</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16d%20%5Bc7ec3bc4%5D%20.mp4" length="2918237" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/neuralnets/recoded_videos%2Flec16d%20%5Bc7ec3bc4%5D%20.mp4</guid>
+      <pubDate>Sat Mar 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

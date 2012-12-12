@@ -18,5 +18,20 @@
         "base_url": "https://class.coursera.org/pgm-2012-002/",
         "author": "Daphne Koller",
         "summary": "In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques."
+    },
+    {
+        "base_url": "https://class.coursera.org/neuralnets-2012-001/",
+        "author": "Geoffrey Hinton",
+        "summary": "Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well."
+    },
+    {
+        "base_url": "https://class.coursera.org/compilers-2012-selfservice/",
+        "author": "Alex Aiken",
+        "summary": "This course will discuss the major ideas used today in the implementation of programming language compilers. You will learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines!"
+    },
+    {
+        "base_url": "https://class.coursera.org/ml-2012-002/",
+        "author": "Andrew NG",
+        "summary": "Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself."
     }
 ]

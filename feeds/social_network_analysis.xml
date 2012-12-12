@@ -9,7 +9,7 @@
     <itunes:summary>This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet.</itunes:summary>
     <description>This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet.</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/sna/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/social_network_analysis_feed.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/social_network_analysis.xml" type="application/rss+xml"/>
     <item>
       <title>1a Why Social Network Analysis?</title>
       <itunes:author>Lada Adamic</itunes:author>

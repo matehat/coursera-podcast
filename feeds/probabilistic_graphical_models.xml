@@ -9,7 +9,7 @@
     <itunes:summary>In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques.</itunes:summary>
     <description>In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques.</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/pgm/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/probabilistic_graphical_models_feed.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/probabilistic_graphical_models.xml" type="application/rss+xml"/>
     <item>
       <title>Welcome!</title>
       <itunes:author>Daphne Koller</itunes:author>

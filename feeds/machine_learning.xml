@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Machine Learning</title>
+    <link>https://class.coursera.org/ml-2012-002/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Andrew NG</itunes:author>
+    <itunes:summary>Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.</itunes:summary>
+    <description>Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/ml/large-icon.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/machine_learning.xml" type="application/rss+xml"/>
+    <item>
+      <title>Welcome</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.1-V3-Introduction-Welcome%20%5B349787be%5D%20.mp4" length="12531478" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.1-V3-Introduction-Welcome%20%5B349787be%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>What Is Machine Learning?</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.2-V2-Introduction-WhatIsMachineLearning%20%5B740a616f%5D%20.mp4" length="9805732" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.2-V2-Introduction-WhatIsMachineLearning%20%5B740a616f%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Supervised Learning</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.3-V2-Introduction-SupervisedLearning%20%5Ba5339935%5D%20.mp4" length="14107352" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.3-V2-Introduction-SupervisedLearning%20%5Ba5339935%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Unsupervised Learning</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.4-V2-Introduction-UnsupervisedLearning-FairUse%20%5B06e89390%5D%20.mp4" length="17473851" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F01.4-V2-Introduction-UnsupervisedLearning-FairUse%20%5B06e89390%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Model Representation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.1-V2-LinearRegressionWithOneVariable-ModelRepresentation%20%5Bae9a08cd%5D%20.mp4" length="9432817" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.1-V2-LinearRegressionWithOneVariable-ModelRepresentation%20%5Bae9a08cd%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.2-V2-LinearRegressionWithOneVariable-CostFunction%20%5B660f6a42%5D%20.mp4" length="9484674" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.2-V2-LinearRegressionWithOneVariable-CostFunction%20%5B660f6a42%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function - Intuition I</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.3-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionI%20%5B14f8b4c6%5D%20.mp4" length="12838060" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.3-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionI%20%5B14f8b4c6%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function - Intuition Ii</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.4-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionII%20%5Bd4dbfc6b%5D%20.mp4" length="11914383" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.4-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionII%20%5Bd4dbfc6b%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.5-V2-LinearRegressionWithOneVariable-GradientDescent%20%5B6567191d%5D%20.mp4" length="14155358" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.5-V2-LinearRegressionWithOneVariable-GradientDescent%20%5B6567191d%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent Intuition</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.6-V2-LinearRegressionWithOneVariable-GradientDescentIntuition%20%5B745759b2%5D%20.mp4" length="13660975" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.6-V2-LinearRegressionWithOneVariable-GradientDescentIntuition%20%5B745759b2%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent For Linear Regression</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.7-V2-LinearRegressionWithOneVariable-GradientDescentForLinearRegression%20%5B1e591f9e%5D%20.mp4" length="12768446" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.7-V2-LinearRegressionWithOneVariable-GradientDescentForLinearRegression%20%5B1e591f9e%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>What&#39;s Next</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.8-V2-What%27sNext%20%5B63b0d8fb%5D%20.mp4" length="6379596" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F02.8-V2-What%27sNext%20%5B63b0d8fb%5D%20.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Matrices And Vectors</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.1-V2-LinearAlgebraReview%28Optional%29-MatricesAndVectors%20%5B1ab3af94%5D%20.mp4" length="10021466" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.1-V2-LinearAlgebraReview%28Optional%29-MatricesAndVectors%20%5B1ab3af94%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Addition And Scalar Multiplication</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.2-V2-LinearAlgebraReview%28Optional%29-AdditionAndScalarMultiplication%20%5B4025d47f%5D%20.mp4" length="7824225" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.2-V2-LinearAlgebraReview%28Optional%29-AdditionAndScalarMultiplication%20%5B4025d47f%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Matrix Vector Multiplication</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.3-V2-LinearAlgebraReview%28Optional%29-MatrixVectorMultiplication%20%5B2680a946%5D%20.mp4" length="15730161" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.3-V2-LinearAlgebraReview%28Optional%29-MatrixVectorMultiplication%20%5B2680a946%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Matrix Matrix Multiplication</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.4-V2-LinearAlgebraReview%28Optional%29-MatrixMatrixMultiplication%20%5B58f54cb9%5D%20.mp4" length="13206193" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.4-V2-LinearAlgebraReview%28Optional%29-MatrixMatrixMultiplication%20%5B58f54cb9%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Matrix Multiplication Properties</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.5-V2-LinearAlgebraReview%28Optional%29-MatrixMultiplicationProperties%20%5B19e69b74%5D%20.mp4" length="10290502" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.5-V2-LinearAlgebraReview%28Optional%29-MatrixMultiplicationProperties%20%5B19e69b74%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Inverse And Transpose</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.6-V2-LinearAlgebraReview%28Optional%29-InverseAndTranspose%20%5B6ab45893%5D%20.mp4" length="13491780" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F03.6-V2-LinearAlgebraReview%28Optional%29-InverseAndTranspose%20%5B6ab45893%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Multiple Features</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.1-LinearRegressionWithMultipleVariables-MultipleFeatures%20%5Ba24453af%5D%20.mp4" length="9272024" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.1-LinearRegressionWithMultipleVariables-MultipleFeatures%20%5Ba24453af%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent For Multiple Variables</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.2-LinearRegressionWithMultipleVariables-GradientDescentForMultipleVariables%20%5B20fd175b%5D%20.mp4" length="6063181" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.2-LinearRegressionWithMultipleVariables-GradientDescentForMultipleVariables%20%5B20fd175b%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent In Practice I - Feature Scaling</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.3-LinearRegressionWithMultipleVariables-GradientDescentInPracticeIFeatureScaling%20%5Bca6f4929%5D%20.mp4" length="9919155" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.3-LinearRegressionWithMultipleVariables-GradientDescentInPracticeIFeatureScaling%20%5Bca6f4929%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Descent In Practice Ii - Learning Rate</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.4-LinearRegressionWithMultipleVariables-GradientDescentInPracticeIILearningRate%20%5B86a26c44%5D%20.mp4" length="9713743" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.4-LinearRegressionWithMultipleVariables-GradientDescentInPracticeIILearningRate%20%5B86a26c44%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Features And Polynomial Regression</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.5-LinearRegressionWithMultipleVariables-FeaturesAndPolynomialRegression%20%5Bf5001f7a%5D%20.mp4" length="8663269" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.5-LinearRegressionWithMultipleVariables-FeaturesAndPolynomialRegression%20%5Bf5001f7a%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Normal Equation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.6-V2-LinearRegressionWithMultipleVariables-NormalEquation%20%5Bfc248f4f%5D%20.mp4" length="17965211" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.6-V2-LinearRegressionWithMultipleVariables-NormalEquation%20%5Bfc248f4f%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Normal Equation Noninvertibility</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.7-LinearRegressionWithMultipleVariables-NormalEquationNonInvertibility%28Optional%29%20%5Bd59294be%5D%20.mp4" length="6543451" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F04.7-LinearRegressionWithMultipleVariables-NormalEquationNonInvertibility%28Optional%29%20%5Bd59294be%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>Optional</itunes:duration>
+    </item>
+    <item>
+      <title>Basic Operations</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.1-OctaveTutorial-BasicOperations%20%5Bf8239093%5D%20.mp4" length="18577614" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.1-OctaveTutorial-BasicOperations%20%5Bf8239093%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Moving Data Around</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.2-OctaveTutorial-MovingDataAround%20%5Bea2e435d%5D%20.mp4" length="21778820" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.2-OctaveTutorial-MovingDataAround%20%5Bea2e435d%5D%20.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Computing On Data</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.3-OctaveTutorial-ComputingOnData%20%5B444d7904%5D%20.mp4" length="15991410" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.3-OctaveTutorial-ComputingOnData%20%5B444d7904%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Plotting Data</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.4-OctaveTutorial-PlottingData%20%5B654f85b1%5D%20.mp4" length="13971095" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.4-OctaveTutorial-PlottingData%20%5B654f85b1%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Control Statements: For, While, If Statements</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.5-OctaveTutorial-ForWhileIfStatementsAndFunctions%20%5B59bfa638%5D%20.mp4" length="17289870" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.5-OctaveTutorial-ForWhileIfStatementsAndFunctions%20%5B59bfa638%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Vectorization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.6-OctaveTutorial-Vectorization%20%5Bafc3b723%5D%20.mp4" length="16871700" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.6-OctaveTutorial-Vectorization%20%5Bafc3b723%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Working On And Submitting Programming Exercises</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.7-OctaveTutorial-WorkingOnAndSubmittingProgrammingExercises%20%5B0b4f8e09%5D%20.mp4" length="5728675" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F05.7-OctaveTutorial-WorkingOnAndSubmittingProgrammingExercises%20%5B0b4f8e09%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>4 min</itunes:duration>
+    </item>
+    <item>
+      <title>Classification</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.1-LogisticRegression-Classification%20%5B72c323a1%5D%20.mp4" length="9197571" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.1-LogisticRegression-Classification%20%5B72c323a1%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Hypothesis Representation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.2-LogisticRegression-HypothesisRepresentation%20%5Be32ae992%5D%20.mp4" length="8744390" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.2-LogisticRegression-HypothesisRepresentation%20%5Be32ae992%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Decision Boundary</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.3-LogisticRegression-DecisionBoundary%20%5B43ae7200%5D%20.mp4" length="17557555" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.3-LogisticRegression-DecisionBoundary%20%5B43ae7200%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.4-LogisticRegression-CostFunction%20%5B262bed4a%5D%20.mp4" length="13727026" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.4-LogisticRegression-CostFunction%20%5B262bed4a%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Simplified Cost Function And Gradient Descent</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.5-LogisticRegression-SimplifiedCostFunctionAndGradientDescent%20%5B4b4b3d20%5D%20.mp4" length="12538820" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.5-LogisticRegression-SimplifiedCostFunctionAndGradientDescent%20%5B4b4b3d20%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Advanced Optimization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.6-LogisticRegression-AdvancedOptimization%20%5B31951c1a%5D%20.mp4" length="19035050" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.6-LogisticRegression-AdvancedOptimization%20%5B31951c1a%5D%20.mp4</guid>
+      <pubDate>Mon Feb 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Multiclass Classification: One-vs-all</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.7-LogisticRegression-MultiClassClassificationOneVsAll%20%5B93f8557d%5D%20.mp4" length="7263422" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F06.7-LogisticRegression-MultiClassClassificationOneVsAll%20%5B93f8557d%5D%20.mp4</guid>
+      <pubDate>Tue Feb 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Problem Of Overfitting</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4" length="11691463" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4</guid>
+      <pubDate>Wed Feb 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4" length="12194681" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4</guid>
+      <pubDate>Thu Feb 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Regularized Linear Regression</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.3-Regularization-RegularizedLinearRegression%20%5B05c50c92%5D%20.mp4" length="12582304" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.3-Regularization-RegularizedLinearRegression%20%5B05c50c92%5D%20.mp4</guid>
+      <pubDate>Fri Feb 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Regularized Logistic Regression</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.4-Regularization-RegularizedLogisticRegression%20%5B8337e0b5%5D%20.mp4" length="11415130" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F07.4-Regularization-RegularizedLogisticRegression%20%5B8337e0b5%5D%20.mp4</guid>
+      <pubDate>Sat Feb 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Non-linear Hypotheses</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.1-NeuralNetworksRepresentation-NonLinearHypotheses-new%20%5Bb7e73ec6%5D%20.mp4" length="11408260" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.1-NeuralNetworksRepresentation-NonLinearHypotheses-new%20%5Bb7e73ec6%5D%20.mp4</guid>
+      <pubDate>Sun Feb 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Neurons And The Brain</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.2-NeuralNetworksRepresentation-NeuronsAndTheBrain%20%5B23021c25%5D%20.mp4" length="10365812" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.2-NeuralNetworksRepresentation-NeuronsAndTheBrain%20%5B23021c25%5D%20.mp4</guid>
+      <pubDate>Mon Feb 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Model Representation I</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.3-NeuralNetworksRepresentation-ModelRepresentationI%20%5Be89f5fed%5D%20.mp4" length="14169416" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.3-NeuralNetworksRepresentation-ModelRepresentationI%20%5Be89f5fed%5D%20.mp4</guid>
+      <pubDate>Tue Feb 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Model Representation Ii</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.4-NeuralNetworksRepresentation-ModelRepresentationII%20%5B4693f48e%5D%20.mp4" length="14105033" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.4-NeuralNetworksRepresentation-ModelRepresentationII%20%5B4693f48e%5D%20.mp4</guid>
+      <pubDate>Wed Feb 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Examples And Intuitions I</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.5-NeuralNetworksRepresentation-ExamplesAndIntuitionsI%20%5B11f3cf0d%5D%20.mp4" length="8277225" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.5-NeuralNetworksRepresentation-ExamplesAndIntuitionsI%20%5B11f3cf0d%5D%20.mp4</guid>
+      <pubDate>Thu Feb 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Examples And Intuitions Ii</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.6-NeuralNetworksRepresentation-ExamplesAndIntuitionsII%20%5B59a2c8be%5D%20.mp4" length="14676317" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.6-NeuralNetworksRepresentation-ExamplesAndIntuitionsII%20%5B59a2c8be%5D%20.mp4</guid>
+      <pubDate>Fri Feb 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Multiclass Classification</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.7-NeuralNetworksRepresentation-MultiClassClassification%20%5Bab10440f%5D%20.mp4" length="5061916" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F08.7-NeuralNetworksRepresentation-MultiClassClassification%20%5Bab10440f%5D%20.mp4</guid>
+      <pubDate>Sat Feb 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>4 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cost Function</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.1-NeuralNetworksLearning-CostFunction%20%5Bdcdf9099%5D%20.mp4" length="8033233" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.1-NeuralNetworksLearning-CostFunction%20%5Bdcdf9099%5D%20.mp4</guid>
+      <pubDate>Sun Feb 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Backpropagation Algorithm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.2-NeuralNetworksLearning-BackpropagationAlgorithm%20%5B068c1e7d%5D%20.mp4" length="14613148" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.2-NeuralNetworksLearning-BackpropagationAlgorithm%20%5B068c1e7d%5D%20.mp4</guid>
+      <pubDate>Mon Feb 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Backpropagation Intuition</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.3-NeuralNetworksLearning-BackpropagationIntuition%20%5B2234a6eb%5D%20.mp4" length="16194298" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.3-NeuralNetworksLearning-BackpropagationIntuition%20%5B2234a6eb%5D%20.mp4</guid>
+      <pubDate>Tue Feb 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Implementation Note: Unrolling Parameters</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.3-NeuralNetworksLearning-ImplementationNoteUnrollingParameters%20%5Bded4d150%5D%20.mp4" length="9838160" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.3-NeuralNetworksLearning-ImplementationNoteUnrollingParameters%20%5Bded4d150%5D%20.mp4</guid>
+      <pubDate>Wed Feb 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gradient Checking</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.4-NeuralNetworksLearning-GradientChecking%20%5B916f58c7%5D%20.mp4" length="14154269" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.4-NeuralNetworksLearning-GradientChecking%20%5B916f58c7%5D%20.mp4</guid>
+      <pubDate>Thu Feb 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Random Initialization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.5-NeuralNetworksLearning-RandomInitialization%20%5B600478f6%5D%20.mp4" length="7932060" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.5-NeuralNetworksLearning-RandomInitialization%20%5B600478f6%5D%20.mp4</guid>
+      <pubDate>Fri Feb 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Putting It Together</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.7-NeuralNetworksLearning-PuttingItTogether%20%5B88017fe1%5D%20.mp4" length="17090467" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.7-NeuralNetworksLearning-PuttingItTogether%20%5B88017fe1%5D%20.mp4</guid>
+      <pubDate>Sat Feb 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Autonomous Driving</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.8-NeuralNetworksLearning-AutonomousDrivingExample%20%5B6910bead%5D%20.mp4" length="15601980" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F09.8-NeuralNetworksLearning-AutonomousDrivingExample%20%5B6910bead%5D%20.mp4</guid>
+      <pubDate>Sun Feb 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Deciding What To Try Next</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.1-AdviceForApplyingMachineLearning-DecidingWhatToTryNext%20%5B20f70615%5D%20.mp4" length="7193919" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.1-AdviceForApplyingMachineLearning-DecidingWhatToTryNext%20%5B20f70615%5D%20.mp4</guid>
+      <pubDate>Mon Feb 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Evaluating A Hypothesis</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4" length="8895556" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4</guid>
+      <pubDate>Tue Mar 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Model Selection And Train/validation/test Sets</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4" length="14754637" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4</guid>
+      <pubDate>Wed Mar 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Diagnosing Bias Vs. Variance</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4" length="9409400" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4</guid>
+      <pubDate>Thu Mar 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization And Bias/variance</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4" length="13207613" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4</guid>
+      <pubDate>Fri Mar 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Curves</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.6-AdviceForApplyingMachineLearning-LearningCurves%20%5Bf92bfd83%5D%20.mp4" length="13547949" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.6-AdviceForApplyingMachineLearning-LearningCurves%20%5Bf92bfd83%5D%20.mp4</guid>
+      <pubDate>Sat Mar 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Deciding What To Do Next Revisited</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.7-AdviceForApplyingMachineLearning-DecidingWhatToDoNextRevisited%20%5B6b8f5a3d%5D%20.mp4" length="8581234" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F10.7-AdviceForApplyingMachineLearning-DecidingWhatToDoNextRevisited%20%5B6b8f5a3d%5D%20.mp4</guid>
+      <pubDate>Sun Mar 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Prioritizing What To Work On</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.1-MachineLearningSystemDesign-PrioritizingWhatToWorkOn%20%5B082377e4%5D%20.mp4" length="11709019" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.1-MachineLearningSystemDesign-PrioritizingWhatToWorkOn%20%5B082377e4%5D%20.mp4</guid>
+      <pubDate>Mon Mar 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Error Analysis</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.2-MachineLearningSystemDesign-ErrorAnalysis%20%5B2df3e9c6%5D%20.mp4" length="16174810" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.2-MachineLearningSystemDesign-ErrorAnalysis%20%5B2df3e9c6%5D%20.mp4</guid>
+      <pubDate>Tue Mar 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Error Metrics For Skewed Classes</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.3-MachineLearningSystemDesign-ErrorMetricsForSkewedClasses%20%5B002f7781%5D%20.mp4" length="13894910" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.3-MachineLearningSystemDesign-ErrorMetricsForSkewedClasses%20%5B002f7781%5D%20.mp4</guid>
+      <pubDate>Wed Mar 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Trading Off Precision And Recall</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.4-MachineLearningSystemDesign-TradingOffPrecisionAndRecall%20%5Bc86559c1%5D%20.mp4" length="16766538" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.4-MachineLearningSystemDesign-TradingOffPrecisionAndRecall%20%5Bc86559c1%5D%20.mp4</guid>
+      <pubDate>Thu Mar 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Data For Machine Learning</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.5-MachineLearningSystemDesign-DataForMachineLearning%20%5B80fd913a%5D%20.mp4" length="13494022" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F11.5-MachineLearningSystemDesign-DataForMachineLearning%20%5B80fd913a%5D%20.mp4</guid>
+      <pubDate>Fri Mar 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Optimization Objective</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.1-SupportVectorMachines-OptimizationObjective%20%5Bac72aa6a%5D%20.mp4" length="17458977" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.1-SupportVectorMachines-OptimizationObjective%20%5Bac72aa6a%5D%20.mp4</guid>
+      <pubDate>Sat Mar 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Large Margin Intuition</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.2-SupportVectorMachines-LargeMarginIntuition%20%5B6bbd49bc%5D%20.mp4" length="12384697" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.2-SupportVectorMachines-LargeMarginIntuition%20%5B6bbd49bc%5D%20.mp4</guid>
+      <pubDate>Sun Mar 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Mathematics Behind Large Margin Classification</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.3-SupportVectorMachines-MathematicsBehindLargeMarginClassificationOptional%20%5Be752ef05%5D%20.mp4" length="22886933" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.3-SupportVectorMachines-MathematicsBehindLargeMarginClassificationOptional%20%5Be752ef05%5D%20.mp4</guid>
+      <pubDate>Mon Mar 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>Optional</itunes:duration>
+    </item>
+    <item>
+      <title>Kernels I</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.4-SupportVectorMachines-KernelsI%20%5Bed0a2c8f%5D%20.mp4" length="18423409" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.4-SupportVectorMachines-KernelsI%20%5Bed0a2c8f%5D%20.mp4</guid>
+      <pubDate>Tue Mar 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Kernels Ii</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.5-SupportVectorMachines-KernelsII%20%5B3c01be3b%5D%20.mp4" length="18295929" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.5-SupportVectorMachines-KernelsII%20%5B3c01be3b%5D%20.mp4</guid>
+      <pubDate>Wed Mar 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Using An Svm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.6-SupportVectorMachines-UsingAnSVM%20%5B637d984c%5D%20.mp4" length="25114340" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F12.6-SupportVectorMachines-UsingAnSVM%20%5B637d984c%5D%20.mp4</guid>
+      <pubDate>Thu Mar 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>21 min</itunes:duration>
+    </item>
+    <item>
+      <title>Unsupervised Learning: Introduction</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.1-Clustering-UnsupervisedLearningIntroduction%20%5Bfc27d12a%5D%20.mp4" length="3987718" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.1-Clustering-UnsupervisedLearningIntroduction%20%5Bfc27d12a%5D%20.mp4</guid>
+      <pubDate>Fri Mar 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>3 min</itunes:duration>
+    </item>
+    <item>
+      <title>K-means Algorithm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.2-Clustering-KMeansAlgorithm%20%5B46416a29%5D%20.mp4" length="14476615" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.2-Clustering-KMeansAlgorithm%20%5B46416a29%5D%20.mp4</guid>
+      <pubDate>Sat Mar 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Optimization Objective</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.3-Clustering-OptimizationObjective%20%5B8111d4b0%5D%20.mp4" length="8541004" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.3-Clustering-OptimizationObjective%20%5B8111d4b0%5D%20.mp4</guid>
+      <pubDate>Sun Mar 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Random Initialization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.4-Clustering-RandomInitialization%20%5Bb43c18e2%5D%20.mp4" length="9095330" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.4-Clustering-RandomInitialization%20%5Bb43c18e2%5D%20.mp4</guid>
+      <pubDate>Mon Mar 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Choosing The Number Of Clusters</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.5-Clustering-ChoosingTheNumberOfClusters%20%5B51618d68%5D%20.mp4" length="9860803" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F14.5-Clustering-ChoosingTheNumberOfClusters%20%5B51618d68%5D%20.mp4</guid>
+      <pubDate>Tue Mar 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Motivation I: Data Compression</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.1-DimensionalityReduction-MotivationIDataCompression%20%5B33089151%5D%20.mp4" length="15002568" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.1-DimensionalityReduction-MotivationIDataCompression%20%5B33089151%5D%20.mp4</guid>
+      <pubDate>Wed Mar 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Motivation Ii: Visualization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.2-DimensionalityReduction-MotivationIIVisualization%20%5B04aae62d%5D%20.mp4" length="6609626" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.2-DimensionalityReduction-MotivationIIVisualization%20%5B04aae62d%5D%20.mp4</guid>
+      <pubDate>Thu Mar 24 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Principal Component Analysis Problem Formulation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.3-DimensionalityReduction-PrincipalComponentAnalysisProblemFormulation%20%5Bb022183f%5D%20.mp4" length="10960153" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.3-DimensionalityReduction-PrincipalComponentAnalysisProblemFormulation%20%5Bb022183f%5D%20.mp4</guid>
+      <pubDate>Fri Mar 25 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Principal Component Analysis Algorithm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.4-DimensionalityReduction-PrincipalComponentAnalysisAlgorithm%20%5B7b04ace6%5D%20.mp4" length="18654430" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.4-DimensionalityReduction-PrincipalComponentAnalysisAlgorithm%20%5B7b04ace6%5D%20.mp4</guid>
+      <pubDate>Sat Mar 26 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Choosing The Number Of Principal Components</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.5-DimensionalityReduction-ChoosingTheNumberOfPrincipalComponents%20%5Be0424ecc%5D%20.mp4" length="12411114" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.5-DimensionalityReduction-ChoosingTheNumberOfPrincipalComponents%20%5Be0424ecc%5D%20.mp4</guid>
+      <pubDate>Sun Mar 27 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Reconstruction From Compressed Representation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.6-DimensionalityReduction-ReconstructionFromCompressedRepresentation%20%5B0edcf027%5D%20.mp4" length="5217108" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.6-DimensionalityReduction-ReconstructionFromCompressedRepresentation%20%5B0edcf027%5D%20.mp4</guid>
+      <pubDate>Mon Mar 28 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>4 min</itunes:duration>
+    </item>
+    <item>
+      <title>Advice For Applying Pca</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.7-DimensionalityReduction-AdviceForApplyingPCA%20%5B60babd1d%5D%20.mp4" length="15409627" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F15.7-DimensionalityReduction-AdviceForApplyingPCA%20%5B60babd1d%5D%20.mp4</guid>
+      <pubDate>Tue Mar 29 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Problem Motivation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.1-AnomalyDetection-ProblemMotivation-V1%20%5B7592356e%5D%20.mp4" length="8753309" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.1-AnomalyDetection-ProblemMotivation-V1%20%5B7592356e%5D%20.mp4</guid>
+      <pubDate>Wed Mar 30 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Gaussian Distribution</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.2-AnomalyDetection-GaussianDistribution%20%5B7df43b36%5D%20.mp4" length="12258579" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.2-AnomalyDetection-GaussianDistribution%20%5B7df43b36%5D%20.mp4</guid>
+      <pubDate>Thu Mar 31 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.3-AnomalyDetection-Algorithm%20%5Bcc8b59b6%5D%20.mp4" length="14630778" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.3-AnomalyDetection-Algorithm%20%5Bcc8b59b6%5D%20.mp4</guid>
+      <pubDate>Fri Apr 01 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Developing And Evaluating An Anomaly Detection System</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.4-AnomalyDetection-DevelopingAndEvaluatingAnAnomalyDetectionSystem%20%5B44bd5709%5D%20.mp4" length="15890808" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.4-AnomalyDetection-DevelopingAndEvaluatingAnAnomalyDetectionSystem%20%5B44bd5709%5D%20.mp4</guid>
+      <pubDate>Sat Apr 02 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Anomaly Detection Vs. Supervised Learning</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.5-AnomalyDetection-AnomalyDetectionVsSupervisedLearning-V1%20%5B4cfab774%5D%20.mp4" length="9729549" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.5-AnomalyDetection-AnomalyDetectionVsSupervisedLearning-V1%20%5B4cfab774%5D%20.mp4</guid>
+      <pubDate>Sun Apr 03 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Choosing What Features To Use</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.6-AnomalyDetection-ChoosingWhatFeaturesToUse%20%5Bcec1dce1%5D%20.mp4" length="14803875" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.6-AnomalyDetection-ChoosingWhatFeaturesToUse%20%5Bcec1dce1%5D%20.mp4</guid>
+      <pubDate>Mon Apr 04 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Multivariate Gaussian Distribution</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.7-AnomalyDetection-MultivariateGaussianDistribution-OPTIONAL%20%5B970061ee%5D%20.mp4" length="16707946" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.7-AnomalyDetection-MultivariateGaussianDistribution-OPTIONAL%20%5B970061ee%5D%20.mp4</guid>
+      <pubDate>Tue Apr 05 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>Optional</itunes:duration>
+    </item>
+    <item>
+      <title>Anomaly Detection Using The Multivariate Gaussian Distribution</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.8-AnomalyDetection-AnomalyDetectionUsingTheMultivariateGaussianDistribution-OPTIONAL%20%5B52b190c2%5D%20.mp4" length="17133569" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F16.8-AnomalyDetection-AnomalyDetectionUsingTheMultivariateGaussianDistribution-OPTIONAL%20%5B52b190c2%5D%20.mp4</guid>
+      <pubDate>Wed Apr 06 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>Optional</itunes:duration>
+    </item>
+    <item>
+      <title>Problem Formulation</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.1-RecommenderSystems-ProblemFormulation%20%5B98ae049f%5D%20.mp4" length="11187495" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.1-RecommenderSystems-ProblemFormulation%20%5B98ae049f%5D%20.mp4</guid>
+      <pubDate>Thu Apr 07 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Content Based Recommendations</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.2-RecommenderSystems-ContentBasedRecommendations%20%5B6b0c765d%5D%20.mp4" length="17755910" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.2-RecommenderSystems-ContentBasedRecommendations%20%5B6b0c765d%5D%20.mp4</guid>
+      <pubDate>Fri Apr 08 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Collaborative Filtering</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.3-RecommenderSystems-CollaborativeFiltering-V1%20%5B3f7fe172%5D%20.mp4" length="12322122" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.3-RecommenderSystems-CollaborativeFiltering-V1%20%5B3f7fe172%5D%20.mp4</guid>
+      <pubDate>Sat Apr 09 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Collaborative Filtering Algorithm</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.4-RecommenderSystems-CollaborativeFilteringAlgorithm%20%5Bc1c9aefc%5D%20.mp4" length="10807841" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.4-RecommenderSystems-CollaborativeFilteringAlgorithm%20%5Bc1c9aefc%5D%20.mp4</guid>
+      <pubDate>Sun Apr 10 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Vectorization: Low Rank Matrix Factorization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.5-RecommenderSystems-VectorizationLowRankMatrixFactorization%20%5B3e267e29%5D%20.mp4" length="10150715" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.5-RecommenderSystems-VectorizationLowRankMatrixFactorization%20%5B3e267e29%5D%20.mp4</guid>
+      <pubDate>Mon Apr 11 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Implementational Detail: Mean Normalization</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.6-RecommenderSystems-ImplementationalDetailMeanNormalization%20%5B6646a7de%5D%20.mp4" length="10182250" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F17.6-RecommenderSystems-ImplementationalDetailMeanNormalization%20%5B6646a7de%5D%20.mp4</guid>
+      <pubDate>Tue Apr 12 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Learning With Large Datasets</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.1-LargeScaleMachineLearning-LearningWithLargeDatasets%20%5Bcb90c036%5D%20.mp4" length="6814836" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.1-LargeScaleMachineLearning-LearningWithLargeDatasets%20%5Bcb90c036%5D%20.mp4</guid>
+      <pubDate>Wed Apr 13 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Stochastic Gradient Descent</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.2-LargeScaleMachineLearning-StochasticGradientDescent%20%5Ba745a8f2%5D%20.mp4" length="16078676" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.2-LargeScaleMachineLearning-StochasticGradientDescent%20%5Ba745a8f2%5D%20.mp4</guid>
+      <pubDate>Thu Apr 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Mini-batch Gradient Descent</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.3-LargeScaleMachineLearning-MiniBatchGradientDescent%20%5B2f2b8e41%5D%20.mp4" length="7670639" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.3-LargeScaleMachineLearning-MiniBatchGradientDescent%20%5B2f2b8e41%5D%20.mp4</guid>
+      <pubDate>Fri Apr 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Stochastic Gradient Descent Convergence</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.4-LargeScaleMachineLearning-StochasticGradientDescentConvergence%20%5B27505c90%5D%20.mp4" length="13978373" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.4-LargeScaleMachineLearning-StochasticGradientDescentConvergence%20%5B27505c90%5D%20.mp4</guid>
+      <pubDate>Sat Apr 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Online Learning</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.5-LargeScaleMachineLearning-OnlineLearning%20%5B2d6cb30e%5D%20.mp4" length="15635013" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.5-LargeScaleMachineLearning-OnlineLearning%20%5B2d6cb30e%5D%20.mp4</guid>
+      <pubDate>Sun Apr 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Map Reduce And Data Parallelism</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.6-LargeScaleMachineLearning-MapReduceAndDataParallelism%20%5B894acac6%5D%20.mp4" length="16841121" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F18.6-LargeScaleMachineLearning-MapReduceAndDataParallelism%20%5B894acac6%5D%20.mp4</guid>
+      <pubDate>Mon Apr 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Problem Description And Pipeline</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.1-ApplicationExamplePhotoOCR-ProblemDescriptionAndPipeline%20%5Bbce7dccc%5D%20.mp4" length="8298045" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.1-ApplicationExamplePhotoOCR-ProblemDescriptionAndPipeline%20%5Bbce7dccc%5D%20.mp4</guid>
+      <pubDate>Tue Apr 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Sliding Windows</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.2-ApplicationExamplePhotoOCR-SlidingWindows%20%5Baf6fe83d%5D%20.mp4" length="17324589" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.2-ApplicationExamplePhotoOCR-SlidingWindows%20%5Baf6fe83d%5D%20.mp4</guid>
+      <pubDate>Wed Apr 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Getting Lots Of Data And Artificial Data</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.3-ApplicationExamplePhotoOCR-GettingLotsOfDataArtificialDataSynthesis%20%5Bafbe4358%5D%20.mp4" length="19733272" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.3-ApplicationExamplePhotoOCR-GettingLotsOfDataArtificialDataSynthesis%20%5Bafbe4358%5D%20.mp4</guid>
+      <pubDate>Thu Apr 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Ceiling Analysis: What Part Of The Pipeline To Work On Next</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.4-ApplicationExamplePhotoOCR-CeilingAnalysisWhatPartOfThePipelineToWorkOnNext%20%5Bd450baec%5D%20.mp4" length="16891199" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F19.4-ApplicationExamplePhotoOCR-CeilingAnalysisWhatPartOfThePipelineToWorkOnNext%20%5Bd450baec%5D%20.mp4</guid>
+      <pubDate>Fri Apr 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Summary And Thank You</title>
+      <itunes:author>Andrew NG</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F20.1-Conclusion-SummaryAndThankYou%20%5B65392641%5D%20.mp4" length="6380692" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/ml/recoded_videos%2F20.1-Conclusion-SummaryAndThankYou%20%5B65392641%5D%20.mp4</guid>
+      <pubDate>Sat Apr 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5 min</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -101,12 +101,14 @@ makeCourse = (c) ->
 
 writeIndex = ->
   courseItem = (c) -> "<li><a href=\"#{c.feed_url}\">#{c.title}</a></li>"
+  courseItems = ""
+  for c in courses
+    courseItems += courseItem c
+  
   writeFileSync 'index.html', """
   <html>
   <body>
-    <ul>
-    #{[courseItem c for c in courses].join('')}
-    </ul>
+    <ul>#{courseItems}</ul>
   </body>
   </html>
   """
@@ -123,7 +125,7 @@ for course in courses
     get_page tasks, course.base_url, ($) ->
       course.title = _.capitalize _.trim $('.container h2').text()
       course.image_url = toHTTP $('#course_logo').attr('src')
-      course.filename = "#{_.underscored course.title}_feed.xml"
+      course.filename = "feeds/#{_.underscored course.title}.xml"
       course.feed_url = "http://www.matehat.com/coursera-podcast/#{course.filename}"
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->

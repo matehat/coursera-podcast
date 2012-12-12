@@ -9,7 +9,7 @@
     <itunes:summary>Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</itunes:summary>
     <description>Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/gamification/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/gamification_feed.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/gamification.xml" type="application/rss+xml"/>
     <item>
       <title>1.1 Introduction</title>
       <itunes:author>Kevin Werbach</itunes:author>
