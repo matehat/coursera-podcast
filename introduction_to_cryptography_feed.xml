@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Introduction to Cryptography</title>
+    <link>https://class.coursera.org/crypto-2012-002/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Dan Boneh</itunes:author>
+    <itunes:summary>Learn about the inner workings of cryptographic primitives and how to apply this knowledge in real-world applications!</itunes:summary>
+    <description>Learn about the inner workings of cryptographic primitives and how to apply this knowledge in real-world applications!</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/crypto/large-icon.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/introduction_to_cryptography_feed.xml" type="application/rss+xml"/>
+    <item>
+      <title>Course Overview</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.1%20%5Bdba8062f%5D%20.mp4" length="12289926" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.1%20%5Bdba8062f%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>What Is Cryptography?</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.2Final%20%5Bba6c988c%5D%20.mp4" length="17836885" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.2Final%20%5Bba6c988c%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>History Of Cryptography</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F01.3-history-jan3%20%5B9e7f04ed%5D%20.mp4" length="21468514" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F01.3-history-jan3%20%5B9e7f04ed%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19 min</itunes:duration>
+    </item>
+    <item>
+      <title>Discrete Probability</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.4Combined%20%5B247dba2a%5D%20.mp4" length="20783605" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.4Combined%20%5B247dba2a%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>Crash course</itunes:duration>
+    </item>
+    <item>
+      <title>Discrete Probability</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.5New%20%5Bc68825d3%5D%20.mp4" length="15348688" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F1.5New%20%5Bc68825d3%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>crash course, cont.</itunes:duration>
+    </item>
+    <item>
+      <title>Information Theoretic Security And The One Time Pad</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F02.1-otp-jan4-new%20%5B825c5ecd%5D%20.mp4" length="21010379" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F02.1-otp-jan4-new%20%5B825c5ecd%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19 min</itunes:duration>
+    </item>
+    <item>
+      <title>Stream Ciphers And Pseudo Random Generators</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F02.2-stream-cipherExpt%20%5B231177b7%5D%20.mp4" length="22200256" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F02.2-stream-cipherExpt%20%5B231177b7%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20 min</itunes:duration>
+    </item>
+    <item>
+      <title>Attacks On Stream Ciphers And The One Time Pad</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.3%20%5B9c39c61e%5D%20.mp4" length="26664207" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.3%20%5B9c39c61e%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>24 min</itunes:duration>
+    </item>
+    <item>
+      <title>Real-world Stream Ciphers</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.4%20%5B56938e6d%5D%20.mp4" length="22927135" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.4%20%5B56938e6d%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20 min</itunes:duration>
+    </item>
+    <item>
+      <title>Prg Security Definitions</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.5%20%5Bc31ad21a%5D%20.mp4" length="28098460" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.5%20%5Bc31ad21a%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>25 min</itunes:duration>
+    </item>
+    <item>
+      <title>Semantic Security</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.6New%20%5B7fbc8e66%5D%20.mp4" length="17614744" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.6New%20%5B7fbc8e66%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Stream Ciphers Are Semantically Secure</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.7%20%5B5e93a882%5D%20.mp4" length="12304254" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F2.7%20%5B5e93a882%5D%20.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min)   [optional</itunes:duration>
+    </item>
+    <item>
+      <title>What Are Block Ciphers?</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.1New%20%5B94a40d14%5D%20.mp4" length="19577394" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.1New%20%5B94a40d14%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Data Encryption Standard</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.2_25Jan%20%5B6fc0f052%5D%20.mp4" length="25693807" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.2_25Jan%20%5B6fc0f052%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>22 min</itunes:duration>
+    </item>
+    <item>
+      <title>Exhaustive Search Attacks</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.3%20%5B7a5600a5%5D%20.mp4" length="22969544" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.3%20%5B7a5600a5%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20 min</itunes:duration>
+    </item>
+    <item>
+      <title>More Attacks On Block Ciphers</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.4%20%5Bbff99254%5D%20.mp4" length="18608598" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.4%20%5Bbff99254%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Aes Block Cipher</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.5New%20%5Bc2dbcf40%5D%20.mp4" length="15228223" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.5New%20%5Bc2dbcf40%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Block Ciphers From Prgs(12 Min)</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.6%20%5B84b1a9ae%5D%20.mp4" length="13502461" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F3.6%20%5B84b1a9ae%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5:00</itunes:duration>
+    </item>
+    <item>
+      <title>Review: Prps And Prfs</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.1%20%5Bf85e8ab1%5D%20.mp4" length="13337149" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.1%20%5Bf85e8ab1%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Modes Of Operation: One Time Key</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.2%20%5Bf07da840%5D%20.mp4" length="8364472" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.2%20%5Bf07da840%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Security For Many-time Key</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.3%20%5Bddb8cadf%5D%20.mp4" length="26130829" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.3%20%5Bddb8cadf%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23 min</itunes:duration>
+    </item>
+    <item>
+      <title>Modes Of Operation: Many Time Key</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.4New%20%5B8a65cc65%5D%20.mp4" length="18831625" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.4New%20%5B8a65cc65%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>CBC</itunes:duration>
+    </item>
+    <item>
+      <title>Modes Of Operation: Many Time Key</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.5%20%5B1fe804c0%5D%20.mp4" length="10942725" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F4.5%20%5B1fe804c0%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>CTR</itunes:duration>
+    </item>
+    <item>
+      <title>Message Authentication Codes</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.1%20%5Ba9195b3f%5D%20.mp4" length="17356829" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.1%20%5Ba9195b3f%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Macs Based On Prfs</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.2%20%5B6c435222%5D%20.mp4" length="11723562" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.2%20%5B6c435222%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cbc-mac And Nmac</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.3%20%5Bdd2df9bf%5D%20.mp4" length="23427295" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.3%20%5Bdd2df9bf%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20 min</itunes:duration>
+    </item>
+    <item>
+      <title>Mac Padding</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.4%20%5B22152c49%5D%20.mp4" length="9755214" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.4%20%5B22152c49%5D%20.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Pmac And The Carter-wegman Mac</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.5%20%5B68f4db48%5D%20.mp4" length="17885613" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F5.5%20%5B68f4db48%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.1%20%5B38d40989%5D%20.mp4" length="12494779" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.1%20%5B38d40989%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Generic Birthday Attack</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.2%20%5Bc7873529%5D%20.mp4" length="16927313" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.2%20%5Bc7873529%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Merkle-damgard Paradigm</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.3%20%5B7023ec4f%5D%20.mp4" length="13187940" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.3%20%5B7023ec4f%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Constructing Compression Functions</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.4%20%5B0135fdd5%5D%20.mp4" length="9210013" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.4%20%5B0135fdd5%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Hmac</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.5%20%5Bf03b76bb%5D%20.mp4" length="8205277" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.5%20%5Bf03b76bb%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Timing Attacks On Mac Verification</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.6%20%5B71cdb075%5D%20.mp4" length="9849761" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F6.6%20%5B71cdb075%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Active Attacks On Cpa-secure Encryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.1%20%5B4d56c0bd%5D%20.mp4" length="14705090" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.1%20%5B4d56c0bd%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Definitions</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.2%20%5B027d293e%5D%20.mp4" length="5878060" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.2%20%5B027d293e%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>Chosen Ciphertext Attacks</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.3%20%5B94e50bfe%5D%20.mp4" length="13668495" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.3%20%5B94e50bfe%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Constructions From Ciphers And Macs</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.4%20%5B974a4c90%5D%20.mp4" length="23953081" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.4%20%5B974a4c90%5D%20.mp4</guid>
+      <pubDate>Mon Feb 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21 min</itunes:duration>
+    </item>
+    <item>
+      <title>Case Study:  Tls</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.5%20%5B2436e814%5D%20.mp4" length="19880781" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.5%20%5B2436e814%5D%20.mp4</guid>
+      <pubDate>Tue Feb 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18 min</itunes:duration>
+    </item>
+    <item>
+      <title>Cbc Padding Attacks</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.6New%20%5Bc9552aff%5D%20.mp4" length="15718358" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.6New%20%5Bc9552aff%5D%20.mp4</guid>
+      <pubDate>Wed Feb 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Attacking Non-atomic Decryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.7%20%5B907d5329%5D%20.mp4" length="11629099" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F7.7%20%5B907d5329%5D%20.mp4</guid>
+      <pubDate>Thu Feb 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Key Derivation</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.1%20%5B1fc50948%5D%20.mp4" length="15281380" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.1%20%5B1fc50948%5D%20.mp4</guid>
+      <pubDate>Fri Feb 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Deterministic Encryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.2%20%5B6aa2eff0%5D%20.mp4" length="16374300" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.2%20%5B6aa2eff0%5D%20.mp4</guid>
+      <pubDate>Sat Feb 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Deterministic Encryption:siv And Wide Prp</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.3%20%5B845e6407%5D%20.mp4" length="23127154" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.3%20%5B845e6407%5D%20.mp4</guid>
+      <pubDate>Sun Feb 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21 min</itunes:duration>
+    </item>
+    <item>
+      <title>Tweakable Encryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.4New%20%5B8011e012%5D%20.mp4" length="16340805" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.4New%20%5B8011e012%5D%20.mp4</guid>
+      <pubDate>Mon Feb 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Format Preserving Encryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.5%20%5B33047927%5D%20.mp4" length="13853189" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F8.5%20%5B33047927%5D%20.mp4</guid>
+      <pubDate>Tue Feb 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Trusted 3rd Parties</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.1%20%5Bb478a24d%5D%20.mp4" length="12810851" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.1%20%5Bb478a24d%5D%20.mp4</guid>
+      <pubDate>Wed Feb 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Merkle Puzzles</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.2%20%5B8e63f8ec%5D%20.mp4" length="13007212" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.2%20%5B8e63f8ec%5D%20.mp4</guid>
+      <pubDate>Thu Feb 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Diffie-hellman Protocol</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.3New%20%5B20aeca72%5D%20.mp4" length="21974510" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.3New%20%5B20aeca72%5D%20.mp4</guid>
+      <pubDate>Fri Feb 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19 min</itunes:duration>
+    </item>
+    <item>
+      <title>Public-key Encryption</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.4New%20%5B4e850288%5D%20.mp4" length="12406149" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F9.4New%20%5B4e850288%5D%20.mp4</guid>
+      <pubDate>Sat Feb 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Notation</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.1New%20%5Ba02e2df3%5D%20.mp4" length="16467645" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.1New%20%5Ba02e2df3%5D%20.mp4</guid>
+      <pubDate>Sun Feb 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Fermat And Euler</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.2New%20%5B289f56f5%5D%20.mp4" length="21031492" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.2New%20%5B289f56f5%5D%20.mp4</guid>
+      <pubDate>Mon Feb 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18 min</itunes:duration>
+    </item>
+    <item>
+      <title>Modular E&#39;th Roots</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.3%20%5Bd4505a9a%5D%20.mp4" length="20019165" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.3%20%5Bd4505a9a%5D%20.mp4</guid>
+      <pubDate>Tue Feb 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17 min</itunes:duration>
+    </item>
+    <item>
+      <title>Arithmetic Algorithms</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.4%20%5Bb50f6a18%5D%20.mp4" length="14563061" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.4%20%5Bb50f6a18%5D%20.mp4</guid>
+      <pubDate>Wed Feb 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Intractable Problems</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.5%20%5B61721315%5D%20.mp4" length="22245611" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F10.5%20%5B61721315%5D%20.mp4</guid>
+      <pubDate>Thu Feb 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19 min</itunes:duration>
+    </item>
+    <item>
+      <title>Definitions And Security</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.1New%20%5Bc1b2e6ce%5D%20.mp4" length="18060484" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.1New%20%5Bc1b2e6ce%5D%20.mp4</guid>
+      <pubDate>Fri Feb 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Constructions</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.2New%20%5B74e91586%5D%20.mp4" length="11840759" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.2New%20%5B74e91586%5D%20.mp4</guid>
+      <pubDate>Sat Feb 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min)</itunes:duration>
+    </item>
+    <item>
+      <title>The Rsa Trapdoor Permutation</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.3%20%5B9128feb2%5D%20.mp4" length="20778500" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.3%20%5B9128feb2%5D%20.mp4</guid>
+      <pubDate>Sun Feb 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18 min</itunes:duration>
+    </item>
+    <item>
+      <title>Pkcs 1</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.4Final%20%5Bd9c08ef8%5D%20.mp4" length="24536424" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.4Final%20%5Bd9c08ef8%5D%20.mp4</guid>
+      <pubDate>Mon Feb 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23 min</itunes:duration>
+    </item>
+    <item>
+      <title>Is Rsa A One-way Function?</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.5New3%20%5B2ec40b85%5D%20.mp4" length="19434314" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.5New3%20%5B2ec40b85%5D%20.mp4</guid>
+      <pubDate>Tue Mar 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17 min</itunes:duration>
+    </item>
+    <item>
+      <title>Rsa In Practice</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.6New%20%5B46b60f28%5D%20.mp4" length="16384966" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F11.6New%20%5B46b60f28%5D%20.mp4</guid>
+      <pubDate>Wed Mar 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>The Elgamal Public-key System</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.1%20%5Bbed9e317%5D%20.mp4" length="22396480" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.1%20%5Bbed9e317%5D%20.mp4</guid>
+      <pubDate>Thu Mar 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23 min</itunes:duration>
+    </item>
+    <item>
+      <title>Elgamal Security</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.2%20%5Bf8de651f%5D%20.mp4" length="15234880" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.2%20%5Bf8de651f%5D%20.mp4</guid>
+      <pubDate>Fri Mar 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Elgamal Variants With Better Security</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.3%20%5B5e01173d%5D%20.mp4" length="11814739" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.3%20%5B5e01173d%5D%20.mp4</guid>
+      <pubDate>Sat Mar 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>A Unifying Theme</title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.4%20%5Bc99180c3%5D%20.mp4" length="13562404" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.4%20%5Bc99180c3%5D%20.mp4</guid>
+      <pubDate>Sun Mar 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Farewell  </title>
+      <itunes:author>Dan Boneh</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.5New%20%5B7f2cad66%5D%20.mp4" length="6003912" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-crypto/recoded_videos%2F12.5New%20%5B7f2cad66%5D%20.mp4</guid>
+      <pubDate>Mon Mar 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>for now</itunes:duration>
+    </item>
+  </channel>
+</rss>

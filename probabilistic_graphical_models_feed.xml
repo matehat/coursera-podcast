@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Probabilistic Graphical Models</title>
+    <link>https://class.coursera.org/pgm-2012-002/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Daphne Koller</itunes:author>
+    <itunes:summary>In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques.</itunes:summary>
+    <description>In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques.</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/pgm/large-icon.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/probabilistic_graphical_models_feed.xml" type="application/rss+xml"/>
+    <item>
+      <title>Welcome!</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.0%20-%20Welcome%20%5B2e5883db%5D%20.mp4" length="7451525" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.0%20-%20Welcome%20%5B2e5883db%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>05:35</itunes:duration>
+    </item>
+    <item>
+      <title>Overview And Motivation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.1-Intro-overview%20%5Ba683f602%5D%20.mp4" length="24116067" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.1-Intro-overview%20%5Ba683f602%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19:17</itunes:duration>
+    </item>
+    <item>
+      <title>Distributions</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.2-Intro-distributions%20%5Bc56f4dc4%5D%20.mp4" length="6090568" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.2-Intro-distributions%20%5Bc56f4dc4%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>04:56</itunes:duration>
+    </item>
+    <item>
+      <title>Factors</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.3-Intro-factors%20%5B9a68940d%5D%20.mp4" length="7725726" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F1.1.3-Intro-factors%20%5B9a68940d%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>06:40</itunes:duration>
+    </item>
+    <item>
+      <title>Semantics &Amp; Factorization</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.1-Repn-BNs-semantics%20%5Bbf2264ad%5D%20.mp4" length="20510507" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.1-Repn-BNs-semantics%20%5Bbf2264ad%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17:20</itunes:duration>
+    </item>
+    <item>
+      <title>Reasoning Patterns</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.2-Repn-BNs-patterns%20%5B32e1084f%5D%20.mp4" length="11308237" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.2-Repn-BNs-patterns%20%5B32e1084f%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:59</itunes:duration>
+    </item>
+    <item>
+      <title>Flow Of Probabilistic Influence</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.3-Repn-BNs-flow-influence%20%5Ba4564dc9%5D%20.mp4" length="16216828" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.3-Repn-BNs-flow-influence%20%5Ba4564dc9%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14:36</itunes:duration>
+    </item>
+    <item>
+      <title>Conditional Independence</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.4-Repn-BNs-conditional-independence%20%5Ba133868c%5D%20.mp4" length="16274264" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.4-Repn-BNs-conditional-independence%20%5Ba133868c%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12:38</itunes:duration>
+    </item>
+    <item>
+      <title>Independencies In Bayesian Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.5-Repn-Ind-BNs%20%5B324c9829%5D%20.mp4" length="22584316" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.5-Repn-Ind-BNs%20%5B324c9829%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18:18</itunes:duration>
+    </item>
+    <item>
+      <title>Naive Bayes</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.6-Repn-BNs-NaiveBayes%20%5B3e933916%5D%20.mp4" length="11150922" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.6-Repn-BNs-NaiveBayes%20%5B3e933916%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:52</itunes:duration>
+    </item>
+    <item>
+      <title>Application - Medical Diagnosis</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.7-Repn-BNs-diagnosis%20%5B7f3ffaa8%5D%20.mp4" length="12071977" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.1.7-Repn-BNs-diagnosis%20%5B7f3ffaa8%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:19</itunes:duration>
+    </item>
+    <item>
+      <title>Knowledge Engineering Example - Samiam</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F%5B62c57510%5D%202.8%20-%20BN%20Repn%20-%20Knowledge%20Engineering%20Example.mp4" length="13384409" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F%5B62c57510%5D%202.8%20-%20BN%20Repn%20-%20Knowledge%20Engineering%20Example.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14:14</itunes:duration>
+    </item>
+    <item>
+      <title>Overview Of Template Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.1-Repn-Template-overview%20%5B33d15157%5D%20.mp4" length="12133284" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.1-Repn-Template-overview%20%5B33d15157%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10:55</itunes:duration>
+    </item>
+    <item>
+      <title>Temporal Models - Dbns</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.2-Repn-Template-temporal-DBNs%20%5B48b81674%5D%20.mp4" length="27337496" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.2-Repn-Template-temporal-DBNs%20%5B48b81674%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23:02</itunes:duration>
+    </item>
+    <item>
+      <title>Temporal Models - Hmms</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.3-Repn-Template-temporal-HMMs%20%5Bc8e085cf%5D%20.mp4" length="14241652" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.3-Repn-Template-temporal-HMMs%20%5Bc8e085cf%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12:01</itunes:duration>
+    </item>
+    <item>
+      <title>Plate Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.4-Repn-Template-plates%20%5Bb0cf14d0%5D%20.mp4" length="23575638" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.2.4-Repn-Template-plates%20%5Bb0cf14d0%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20:08</itunes:duration>
+    </item>
+    <item>
+      <title>Basic Operations</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-1-BasicOperations%20%5Bf8239093%5D%20.mp4" length="18575099" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-1-BasicOperations%20%5Bf8239093%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13:59</itunes:duration>
+    </item>
+    <item>
+      <title>Moving Data Around</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-2-MovingDataAround%20%5Bea2e435d%5D%20.mp4" length="21777361" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-2-MovingDataAround%20%5Bea2e435d%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:07</itunes:duration>
+    </item>
+    <item>
+      <title>Computing On Data</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-3-ComputingOnData%20%5B444d7904%5D%20.mp4" length="15993762" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-3-ComputingOnData%20%5B444d7904%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13:15</itunes:duration>
+    </item>
+    <item>
+      <title>Plotting Data</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-4-PlottingData%20%5B654f85b1%5D%20.mp4" length="13971963" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-4-PlottingData%20%5B654f85b1%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:38</itunes:duration>
+    </item>
+    <item>
+      <title>Control Statements: For, While, If Statements</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-5-ForWhileIfStatementsAndFunctions%20%5B59bfa638%5D%20.mp4" length="17290185" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-5-ForWhileIfStatementsAndFunctions%20%5B59bfa638%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12:55</itunes:duration>
+    </item>
+    <item>
+      <title>Vectorization</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-6-Vectorization%20%5Bafc3b723%5D%20.mp4" length="16872946" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-6-Vectorization%20%5Bafc3b723%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13:48</itunes:duration>
+    </item>
+    <item>
+      <title>Working On And Submitting Programming Exercises</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-7-WorkingOnAndSubmittingProgrammingExercises%20%5B0b4f8e09%5D%20.mp4" length="5763631" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2FOctaveTutorial-7-WorkingOnAndSubmittingProgrammingExercises%20%5B0b4f8e09%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>03:33</itunes:duration>
+    </item>
+    <item>
+      <title>Overview: Structured Cpds</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.1-Repn-CPDs-overview%20%5B7277a992%5D%20.mp4" length="10118228" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.1-Repn-CPDs-overview%20%5B7277a992%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>08:00</itunes:duration>
+    </item>
+    <item>
+      <title>Tree-structured Cpds</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.2-Repn-CPDs-tree%20%5Bfbff8661%5D%20.mp4" length="16817914" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.2-Repn-CPDs-tree%20%5Bfbff8661%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14:37</itunes:duration>
+    </item>
+    <item>
+      <title>Independence Of Causal Influence</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.3-Repn-CPDs-ICI%20%5Ba647a417%5D%20.mp4" length="16638289" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.3.3-Repn-CPDs-ICI%20%5Ba647a417%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13:08</itunes:duration>
+    </item>
+    <item>
+      <title>Continuous Variables</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F%5Bf3e4f567%5D%202.3.4-Repn-CPDs-continuous.mp4" length="9416711" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F%5Bf3e4f567%5D%202.3.4-Repn-CPDs-continuous.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13:25</itunes:duration>
+    </item>
+    <item>
+      <title>Pairwise Markov Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.1-Repn-MNs-pairwise%20%5B40ae41e5%5D%20.mp4" length="13172025" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.1-Repn-MNs-pairwise%20%5B40ae41e5%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10:59</itunes:duration>
+    </item>
+    <item>
+      <title>General Gibbs Distribution</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.2-Repn-MNs-Gibbs%20%5B9f1d3efb%5D%20.mp4" length="19854184" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.2-Repn-MNs-Gibbs%20%5B9f1d3efb%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:52</itunes:duration>
+    </item>
+    <item>
+      <title>Conditional Random Fields</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.3-Repn-MNs-CRFs%20%5B4d7185db%5D%20.mp4" length="26277206" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.3-Repn-MNs-CRFs%20%5B4d7185db%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>22:22</itunes:duration>
+    </item>
+    <item>
+      <title>Independencies In Markov Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.4-Repn-Ind-MNs%20%5Bc65b3af7%5D%20.mp4" length="6126294" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.4-Repn-Ind-MNs%20%5Bc65b3af7%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>04:48</itunes:duration>
+    </item>
+    <item>
+      <title>I-maps And Perfect Maps</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.5-Repn-Ind-I-maps%20%5B5c58bd30%5D%20.mp4" length="23498572" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.5-Repn-Ind-I-maps%20%5B5c58bd30%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20:59</itunes:duration>
+    </item>
+    <item>
+      <title>Log-linear Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.6-Repn-MNs-loglinear%20%5B7b8eabfe%5D%20.mp4" length="27023901" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.6-Repn-MNs-loglinear%20%5B7b8eabfe%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>22:08</itunes:duration>
+    </item>
+    <item>
+      <title>Shared Features In Log-linear Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.7-Repn-Shared-Features-loglinear%20%5B54551eed%5D%20.mp4" length="10510271" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.4.7-Repn-Shared-Features-loglinear%20%5B54551eed%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>08:28</itunes:duration>
+    </item>
+    <item>
+      <title>Knowledge Engineering</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.5.1-Repn-wrapup-KE%20%5B0ebff3b5%5D%20.mp4" length="25851181" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.5.1-Repn-wrapup-KE%20%5B0ebff3b5%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23:05</itunes:duration>
+    </item>
+    <item>
+      <title>Knowledge Engineering</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.5.1-Repn-wrapup-KE%20%5B0ebff3b5%5D%20.mp4" length="25851181" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F2.5.1-Repn-wrapup-KE%20%5B0ebff3b5%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23:05</itunes:duration>
+    </item>
+    <item>
+      <title>Overview: Conditional Probability Queries</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.1-Inf-Overview-Prob%20%5B9a970594%5D%20.mp4" length="17545242" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.1-Inf-Overview-Prob%20%5B9a970594%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:22</itunes:duration>
+    </item>
+    <item>
+      <title>Overview: Conditional Probability Queries</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.1-Inf-Overview-Prob%20%5B9a970594%5D%20.mp4" length="17545242" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.1-Inf-Overview-Prob%20%5B9a970594%5D%20.mp4</guid>
+      <pubDate>Mon Feb 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:22</itunes:duration>
+    </item>
+    <item>
+      <title>Overview: Map Inference</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.2-Inf-Overview-MAP%20%5B0a2e3540%5D%20.mp4" length="11397504" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.2-Inf-Overview-MAP%20%5B0a2e3540%5D%20.mp4</guid>
+      <pubDate>Tue Feb 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:42</itunes:duration>
+    </item>
+    <item>
+      <title>Overview: Map Inference</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.2-Inf-Overview-MAP%20%5B0a2e3540%5D%20.mp4" length="11397504" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.1.2-Inf-Overview-MAP%20%5B0a2e3540%5D%20.mp4</guid>
+      <pubDate>Wed Feb 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>09:42</itunes:duration>
+    </item>
+    <item>
+      <title>Variable Elimination Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.1-Inf-VE-Alg%20%5Bd4554deb%5D%20.mp4" length="19796910" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.1-Inf-VE-Alg%20%5Bd4554deb%5D%20.mp4</guid>
+      <pubDate>Thu Feb 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Variable Elimination Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.1-Inf-VE-Alg%20%5Bd4554deb%5D%20.mp4" length="19796910" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.1-Inf-VE-Alg%20%5Bd4554deb%5D%20.mp4</guid>
+      <pubDate>Fri Feb 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Complexity Of Variable Elimination</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.2-Inf-VE-complexity%20%5B38f0a1ef%5D%20.mp4" length="15415954" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.2-Inf-VE-complexity%20%5B38f0a1ef%5D%20.mp4</guid>
+      <pubDate>Sat Feb 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12:48</itunes:duration>
+    </item>
+    <item>
+      <title>Complexity Of Variable Elimination</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.2-Inf-VE-complexity%20%5B38f0a1ef%5D%20.mp4" length="15415954" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.2-Inf-VE-complexity%20%5B38f0a1ef%5D%20.mp4</guid>
+      <pubDate>Sun Feb 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12:48</itunes:duration>
+    </item>
+    <item>
+      <title>Graph-based Perspective On Variable Elimination</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.3-Inf-VE-graph%20%5B126a3744%5D%20.mp4" length="16596085" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.3-Inf-VE-graph%20%5B126a3744%5D%20.mp4</guid>
+      <pubDate>Mon Feb 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:25</itunes:duration>
+    </item>
+    <item>
+      <title>Graph-based Perspective On Variable Elimination</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.3-Inf-VE-graph%20%5B126a3744%5D%20.mp4" length="16596085" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.3-Inf-VE-graph%20%5B126a3744%5D%20.mp4</guid>
+      <pubDate>Tue Feb 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:25</itunes:duration>
+    </item>
+    <item>
+      <title>Finding Elimination Orderings</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.4-Inf-VE-elimorder%20%5B9752e8f1%5D%20.mp4" length="15056339" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.4-Inf-VE-elimorder%20%5B9752e8f1%5D%20.mp4</guid>
+      <pubDate>Wed Feb 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+    </item>
+    <item>
+      <title>Finding Elimination Orderings</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.4-Inf-VE-elimorder%20%5B9752e8f1%5D%20.mp4" length="15056339" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.2.4-Inf-VE-elimorder%20%5B9752e8f1%5D%20.mp4</guid>
+      <pubDate>Thu Feb 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+    </item>
+    <item>
+      <title>Belief Propagation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.1-Inf-BP-Alg%20%5B6f1dee03%5D%20.mp4" length="24068735" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.1-Inf-BP-Alg%20%5B6f1dee03%5D%20.mp4</guid>
+      <pubDate>Fri Feb 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21:21</itunes:duration>
+    </item>
+    <item>
+      <title>Belief Propagation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.1-Inf-BP-Alg%20%5B6f1dee03%5D%20.mp4" length="24068735" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.1-Inf-BP-Alg%20%5B6f1dee03%5D%20.mp4</guid>
+      <pubDate>Sat Feb 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21:21</itunes:duration>
+    </item>
+    <item>
+      <title>Properties Of Cluster Graphs</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.2-Inf-BP-Cgraph%20%5B0eb296e1%5D%20.mp4" length="17478935" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.2-Inf-BP-Cgraph%20%5B0eb296e1%5D%20.mp4</guid>
+      <pubDate>Sun Feb 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+    </item>
+    <item>
+      <title>Properties Of Cluster Graphs</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.2-Inf-BP-Cgraph%20%5B0eb296e1%5D%20.mp4" length="17478935" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.2-Inf-BP-Cgraph%20%5B0eb296e1%5D%20.mp4</guid>
+      <pubDate>Mon Feb 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+    </item>
+    <item>
+      <title>Properties Of Belief Propagation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.3-Inf-BP-properties%20%5Bd890877f%5D%20.mp4" length="11063859" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.3-Inf-BP-properties%20%5Bd890877f%5D%20.mp4</guid>
+      <pubDate>Tue Feb 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9:31</itunes:duration>
+    </item>
+    <item>
+      <title>Properties Of Belief Propagation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.3-Inf-BP-properties%20%5Bd890877f%5D%20.mp4" length="11063859" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.3-Inf-BP-properties%20%5Bd890877f%5D%20.mp4</guid>
+      <pubDate>Wed Feb 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9:31</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Tree Algorithm - Correctness</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3%20%5B7ec4a319%5D%20.mp4" length="20673071" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3%20%5B7ec4a319%5D%20.mp4</guid>
+      <pubDate>Thu Feb 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18:23</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Tree Algorithm - Correctness</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3%20%5B7ec4a319%5D%20.mp4" length="20673071" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3%20%5B7ec4a319%5D%20.mp4</guid>
+      <pubDate>Fri Feb 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18:23</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Tree Algorithm - Computation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.5-Inf-BP-Ctree-computation%20%5B55fed2b8%5D%20.mp4" length="17040147" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.5-Inf-BP-Ctree-computation%20%5B55fed2b8%5D%20.mp4</guid>
+      <pubDate>Sat Feb 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:18</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Tree Algorithm - Computation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.5-Inf-BP-Ctree-computation%20%5B55fed2b8%5D%20.mp4" length="17040147" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.5-Inf-BP-Ctree-computation%20%5B55fed2b8%5D%20.mp4</guid>
+      <pubDate>Sun Feb 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:18</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Trees And Independence</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.6-Inf-BP-Ctree-RIP%20%5Ba3db7678%5D%20.mp4" length="18224416" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.6-Inf-BP-Ctree-RIP%20%5Ba3db7678%5D%20.mp4</guid>
+      <pubDate>Mon Feb 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:21</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Trees And Independence</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.6-Inf-BP-Ctree-RIP%20%5Ba3db7678%5D%20.mp4" length="18224416" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.6-Inf-BP-Ctree-RIP%20%5Ba3db7678%5D%20.mp4</guid>
+      <pubDate>Tue Mar 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:21</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Trees And Ve</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.7-Inf-BP-Ctree-VE%20%5Bf361c621%5D%20.mp4" length="19161483" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.7-Inf-BP-Ctree-VE%20%5Bf361c621%5D%20.mp4</guid>
+      <pubDate>Wed Mar 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Clique Trees And Ve</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.7-Inf-BP-Ctree-VE%20%5Bf361c621%5D%20.mp4" length="19161483" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.7-Inf-BP-Ctree-VE%20%5Bf361c621%5D%20.mp4</guid>
+      <pubDate>Thu Mar 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Bp In Practice</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.8-Inf-BP-practice%20%5Bcd98552c%5D%20.mp4" length="17680437" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.8-Inf-BP-practice%20%5Bcd98552c%5D%20.mp4</guid>
+      <pubDate>Fri Mar 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:38</itunes:duration>
+    </item>
+    <item>
+      <title>Bp In Practice</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.8-Inf-BP-practice%20%5Bcd98552c%5D%20.mp4" length="17680437" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.8-Inf-BP-practice%20%5Bcd98552c%5D%20.mp4</guid>
+      <pubDate>Sat Mar 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:38</itunes:duration>
+    </item>
+    <item>
+      <title>Loopy Bp And Message Decoding</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.9-Inf-BP-coding%20%5B913f1d2e%5D%20.mp4" length="25442789" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.9-Inf-BP-coding%20%5B913f1d2e%5D%20.mp4</guid>
+      <pubDate>Sun Mar 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21:42</itunes:duration>
+    </item>
+    <item>
+      <title>Loopy Bp And Message Decoding</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.9-Inf-BP-coding%20%5B913f1d2e%5D%20.mp4" length="25442789" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.3.9-Inf-BP-coding%20%5B913f1d2e%5D%20.mp4</guid>
+      <pubDate>Mon Mar 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21:42</itunes:duration>
+    </item>
+    <item>
+      <title>Max Sum Message Passing</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.1-Inf-MAP-Exact-Inference%20%5B059a4b1f%5D%20.mp4" length="23253195" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.1-Inf-MAP-Exact-Inference%20%5B059a4b1f%5D%20.mp4</guid>
+      <pubDate>Tue Mar 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20:27</itunes:duration>
+    </item>
+    <item>
+      <title>Max Sum Message Passing</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.1-Inf-MAP-Exact-Inference%20%5B059a4b1f%5D%20.mp4" length="23253195" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.1-Inf-MAP-Exact-Inference%20%5B059a4b1f%5D%20.mp4</guid>
+      <pubDate>Wed Mar 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>20:27</itunes:duration>
+    </item>
+    <item>
+      <title>Finding A Map Assignment</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.2-Inf-MAP-Decoding%20%5B94eaf596%5D%20.mp4" length="4853459" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.2-Inf-MAP-Decoding%20%5B94eaf596%5D%20.mp4</guid>
+      <pubDate>Thu Mar 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>3:57</itunes:duration>
+    </item>
+    <item>
+      <title>Finding A Map Assignment</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.2-Inf-MAP-Decoding%20%5B94eaf596%5D%20.mp4" length="4853459" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.2-Inf-MAP-Decoding%20%5B94eaf596%5D%20.mp4</guid>
+      <pubDate>Fri Mar 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>3:57</itunes:duration>
+    </item>
+    <item>
+      <title>Tractable Map Problems</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.3-Inf-MAP-tractable%20%5Bc4f5d7ba%5D%20.mp4" length="18046886" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.3-Inf-MAP-tractable%20%5Bc4f5d7ba%5D%20.mp4</guid>
+      <pubDate>Sat Mar 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:04</itunes:duration>
+    </item>
+    <item>
+      <title>Tractable Map Problems</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.3-Inf-MAP-tractable%20%5Bc4f5d7ba%5D%20.mp4" length="18046886" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.3-Inf-MAP-tractable%20%5Bc4f5d7ba%5D%20.mp4</guid>
+      <pubDate>Sun Mar 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15:04</itunes:duration>
+    </item>
+    <item>
+      <title>Dual Decomposition - Intuition</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.4-Inf-MAP-DD-Intuition%20%5Bff9f458c%5D%20.mp4" length="20391122" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.4-Inf-MAP-DD-Intuition%20%5Bff9f458c%5D%20.mp4</guid>
+      <pubDate>Mon Mar 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:46</itunes:duration>
+    </item>
+    <item>
+      <title>Dual Decomposition - Intuition</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.4-Inf-MAP-DD-Intuition%20%5Bff9f458c%5D%20.mp4" length="20391122" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.4-Inf-MAP-DD-Intuition%20%5Bff9f458c%5D%20.mp4</guid>
+      <pubDate>Tue Mar 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:46</itunes:duration>
+    </item>
+    <item>
+      <title>Dual Decomposition - Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.5-Inf-MAP-DD-Algorithm%20%5B4578ef5b%5D%20.mp4" length="18571626" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.5-Inf-MAP-DD-Algorithm%20%5B4578ef5b%5D%20.mp4</guid>
+      <pubDate>Wed Mar 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:16</itunes:duration>
+    </item>
+    <item>
+      <title>Dual Decomposition - Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.5-Inf-MAP-DD-Algorithm%20%5B4578ef5b%5D%20.mp4" length="18571626" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.4.5-Inf-MAP-DD-Algorithm%20%5B4578ef5b%5D%20.mp4</guid>
+      <pubDate>Thu Mar 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:16</itunes:duration>
+    </item>
+    <item>
+      <title>Simple Sampling</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.1-Inf-Particle-intro%20%5B0e47a90b%5D%20.mp4" length="26997718" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.1-Inf-Particle-intro%20%5B0e47a90b%5D%20.mp4</guid>
+      <pubDate>Fri Mar 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>23:37</itunes:duration>
+    </item>
+    <item>
+      <title>Simple Sampling</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.1-Inf-Particle-intro%20%5B0e47a90b%5D%20.mp4" length="26997718" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.1-Inf-Particle-intro%20%5B0e47a90b%5D%20.mp4</guid>
+      <pubDate>Sat Mar 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>23:37</itunes:duration>
+    </item>
+    <item>
+      <title>Markov Chain Monte Carlo</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.2-Inf-Particle-MCMC-1%20%5Bb140d2f3%5D%20.mp4" length="16771038" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.2-Inf-Particle-MCMC-1%20%5Bb140d2f3%5D%20.mp4</guid>
+      <pubDate>Sun Mar 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14:18</itunes:duration>
+    </item>
+    <item>
+      <title>Markov Chain Monte Carlo</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.2-Inf-Particle-MCMC-1%20%5Bb140d2f3%5D%20.mp4" length="16771038" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.2-Inf-Particle-MCMC-1%20%5Bb140d2f3%5D%20.mp4</guid>
+      <pubDate>Mon Mar 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14:18</itunes:duration>
+    </item>
+    <item>
+      <title>Using A Markov Chain</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.3-Inf-Particle-MCMC-2%20%5B3249fdd8%5D%20.mp4" length="18215611" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.3-Inf-Particle-MCMC-2%20%5B3249fdd8%5D%20.mp4</guid>
+      <pubDate>Tue Mar 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:27</itunes:duration>
+    </item>
+    <item>
+      <title>Using A Markov Chain</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.3-Inf-Particle-MCMC-2%20%5B3249fdd8%5D%20.mp4" length="18215611" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.3-Inf-Particle-MCMC-2%20%5B3249fdd8%5D%20.mp4</guid>
+      <pubDate>Wed Mar 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:27</itunes:duration>
+    </item>
+    <item>
+      <title>Gibbs Sampling</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.4-Inf-Particle-Gibbs%20%5B577617db%5D%20.mp4" length="22523587" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.4-Inf-Particle-Gibbs%20%5B577617db%5D%20.mp4</guid>
+      <pubDate>Thu Mar 24 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>19:26</itunes:duration>
+    </item>
+    <item>
+      <title>Gibbs Sampling</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.4-Inf-Particle-Gibbs%20%5B577617db%5D%20.mp4" length="22523587" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.4-Inf-Particle-Gibbs%20%5B577617db%5D%20.mp4</guid>
+      <pubDate>Fri Mar 25 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>19:26</itunes:duration>
+    </item>
+    <item>
+      <title>Metropolis Hastings Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.5-Inf-Particle-MH%20%5B3ae8b299%5D%20.mp4" length="31236353" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.5-Inf-Particle-MH%20%5B3ae8b299%5D%20.mp4</guid>
+      <pubDate>Sat Mar 26 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>27:06</itunes:duration>
+    </item>
+    <item>
+      <title>Metropolis Hastings Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.5-Inf-Particle-MH%20%5B3ae8b299%5D%20.mp4" length="31236353" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.5.5-Inf-Particle-MH%20%5B3ae8b299%5D%20.mp4</guid>
+      <pubDate>Sun Mar 27 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>27:06</itunes:duration>
+    </item>
+    <item>
+      <title>Inference In Temporal Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.1-Inf-Temporal%20%5Bf4243cff%5D%20.mp4" length="24441396" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.1-Inf-Temporal%20%5Bf4243cff%5D%20.mp4</guid>
+      <pubDate>Mon Mar 28 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>19:43</itunes:duration>
+    </item>
+    <item>
+      <title>Inference In Temporal Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.1-Inf-Temporal%20%5Bf4243cff%5D%20.mp4" length="24441396" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.1-Inf-Temporal%20%5Bf4243cff%5D%20.mp4</guid>
+      <pubDate>Tue Mar 29 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>19:43</itunes:duration>
+    </item>
+    <item>
+      <title>Inference: Summary</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.2-Inf-Summary%20%5Ba9c9d2d4%5D%20.mp4" length="14843615" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.2-Inf-Summary%20%5Ba9c9d2d4%5D%20.mp4</guid>
+      <pubDate>Wed Mar 30 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:45</itunes:duration>
+    </item>
+    <item>
+      <title>Inference: Summary</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.2-Inf-Summary%20%5Ba9c9d2d4%5D%20.mp4" length="14843615" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F3.6.2-Inf-Summary%20%5Ba9c9d2d4%5D%20.mp4</guid>
+      <pubDate>Thu Mar 31 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:45</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Expected Utility</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.1-Dec-MEU%20%5B2c130028%5D%20.mp4" length="30402601" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.1-Dec-MEU%20%5B2c130028%5D%20.mp4</guid>
+      <pubDate>Fri Apr 01 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>25:57</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Expected Utility</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.1-Dec-MEU%20%5B2c130028%5D%20.mp4" length="30402601" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.1-Dec-MEU%20%5B2c130028%5D%20.mp4</guid>
+      <pubDate>Sat Apr 02 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>25:57</itunes:duration>
+    </item>
+    <item>
+      <title>Utility Functions</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.2-Dec-utility%20%5Bc6ca0790%5D%20.mp4" length="20635859" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.2-Dec-utility%20%5Bc6ca0790%5D%20.mp4</guid>
+      <pubDate>Sun Apr 03 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>18:15</itunes:duration>
+    </item>
+    <item>
+      <title>Utility Functions</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.2-Dec-utility%20%5Bc6ca0790%5D%20.mp4" length="20635859" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.2-Dec-utility%20%5Bc6ca0790%5D%20.mp4</guid>
+      <pubDate>Mon Apr 04 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>18:15</itunes:duration>
+    </item>
+    <item>
+      <title>Value Of Perfect Information</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.3-Dec-VPI%20%5B5ecde5bd%5D%20.mp4" length="20218111" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.3-Dec-VPI%20%5B5ecde5bd%5D%20.mp4</guid>
+      <pubDate>Tue Apr 05 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:14</itunes:duration>
+    </item>
+    <item>
+      <title>Value Of Perfect Information</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.3-Dec-VPI%20%5B5ecde5bd%5D%20.mp4" length="20218111" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F4.1.3-Dec-VPI%20%5B5ecde5bd%5D%20.mp4</guid>
+      <pubDate>Wed Apr 06 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:14</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization: The Problem Of Overfitting</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4" length="11693207" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4</guid>
+      <pubDate>Thu Apr 07 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>09:42</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization: The Problem Of Overfitting</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4" length="11693207" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.1-Regularization-TheProblemOfOverfitting%20%5Bb0cf6d84%5D%20.mp4</guid>
+      <pubDate>Fri Apr 08 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>09:42</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization: Cost Function</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4" length="12194908" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4</guid>
+      <pubDate>Sat Apr 09 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10:10</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization: Cost Function</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4" length="12194908" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F07.2-Regularization-CostFunction%20%5Bb71a1778%5D%20.mp4</guid>
+      <pubDate>Sun Apr 10 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>10:10</itunes:duration>
+    </item>
+    <item>
+      <title>Evaluating A Hypothesis</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4" length="8894887" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4</guid>
+      <pubDate>Mon Apr 11 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>07:35</itunes:duration>
+    </item>
+    <item>
+      <title>Evaluating A Hypothesis</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4" length="8894887" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.2-AdviceForApplyingMachineLearning-EvaluatingAHypothesis%20%5B2c60faa1%5D%20.mp4</guid>
+      <pubDate>Tue Apr 12 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>07:35</itunes:duration>
+    </item>
+    <item>
+      <title>Model Selection And Train Validation Test Sets</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4" length="14754804" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4</guid>
+      <pubDate>Wed Apr 13 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:03</itunes:duration>
+    </item>
+    <item>
+      <title>Model Selection And Train Validation Test Sets</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4" length="14754804" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.3-AdviceForApplyingMachineLearning-ModelSelectionAndTrainValidationTestSets%20%5Be9fc88b0%5D%20.mp4</guid>
+      <pubDate>Thu Apr 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:03</itunes:duration>
+    </item>
+    <item>
+      <title>Diagnosing Bias Vs Variance</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4" length="9409407" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4</guid>
+      <pubDate>Fri Apr 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>07:42</itunes:duration>
+    </item>
+    <item>
+      <title>Diagnosing Bias Vs Variance</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4" length="9409407" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.4-AdviceForApplyingMachineLearning-DiagnosingBiasVsVariance%20%5B08943405%5D%20.mp4</guid>
+      <pubDate>Sat Apr 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>07:42</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization And Bias Variance</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4" length="13207375" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4</guid>
+      <pubDate>Sun Apr 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:20</itunes:duration>
+    </item>
+    <item>
+      <title>Regularization And Bias Variance</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4" length="13207375" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F10.5-AdviceForApplyingMachineLearning-RegularizationAndBiasVariance%20%5B4de9cdc9%5D%20.mp4</guid>
+      <pubDate>Mon Apr 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:20</itunes:duration>
+    </item>
+    <item>
+      <title>Learning: Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.1.1-Learn-overview%20%5B79bc6fed%5D%20.mp4" length="18362877" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.1.1-Learn-overview%20%5B79bc6fed%5D%20.mp4</guid>
+      <pubDate>Tue Apr 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:35</itunes:duration>
+    </item>
+    <item>
+      <title>Learning: Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.1.1-Learn-overview%20%5B79bc6fed%5D%20.mp4" length="18362877" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.1.1-Learn-overview%20%5B79bc6fed%5D%20.mp4</guid>
+      <pubDate>Wed Apr 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:35</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood Estimation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.1-Learn-param-MLE%20%5Bb35a613f%5D%20.mp4" length="15886362" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.1-Learn-param-MLE%20%5Bb35a613f%5D%20.mp4</guid>
+      <pubDate>Thu Apr 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14:59</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood Estimation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.1-Learn-param-MLE%20%5Bb35a613f%5D%20.mp4" length="15886362" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.1-Learn-param-MLE%20%5Bb35a613f%5D%20.mp4</guid>
+      <pubDate>Fri Apr 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>14:59</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood Estimation For Bayesian Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.2-Learn-BNparam-MLE%20%5B21144fa4%5D%20.mp4" length="18582616" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.2-Learn-BNparam-MLE%20%5B21144fa4%5D%20.mp4</guid>
+      <pubDate>Sat Apr 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:49</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood Estimation For Bayesian Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.2-Learn-BNparam-MLE%20%5B21144fa4%5D%20.mp4" length="18582616" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.2-Learn-BNparam-MLE%20%5B21144fa4%5D%20.mp4</guid>
+      <pubDate>Sun Apr 24 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:49</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Estimation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.3-Learn-BNparam-BayesianEstimation%20%5Bfdfafbc4%5D%20.mp4" length="19567260" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.3-Learn-BNparam-BayesianEstimation%20%5Bfdfafbc4%5D%20.mp4</guid>
+      <pubDate>Mon Apr 25 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:27</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Estimation</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.3-Learn-BNparam-BayesianEstimation%20%5Bfdfafbc4%5D%20.mp4" length="19567260" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.3-Learn-BNparam-BayesianEstimation%20%5Bfdfafbc4%5D%20.mp4</guid>
+      <pubDate>Tue Apr 26 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:27</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Prediction</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.4-Learn-BNparam-BayesianPrediction%20%5B82698147%5D%20.mp4" length="16996318" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.4-Learn-BNparam-BayesianPrediction%20%5B82698147%5D%20.mp4</guid>
+      <pubDate>Wed Apr 27 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Prediction</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.4-Learn-BNparam-BayesianPrediction%20%5B82698147%5D%20.mp4" length="16996318" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.4-Learn-BNparam-BayesianPrediction%20%5B82698147%5D%20.mp4</guid>
+      <pubDate>Thu Apr 28 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Estimation For Bayesian Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.5-Learn-BNParam-BayesianBN%20%5Ba7050091%5D%20.mp4" length="22191174" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.5-Learn-BNParam-BayesianBN%20%5Ba7050091%5D%20.mp4</guid>
+      <pubDate>Fri Apr 29 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:02</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Estimation For Bayesian Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.5-Learn-BNParam-BayesianBN%20%5Ba7050091%5D%20.mp4" length="22191174" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.2.5-Learn-BNParam-BayesianBN%20%5Ba7050091%5D%20.mp4</guid>
+      <pubDate>Sat Apr 30 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>17:02</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood For Log-linear Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.1-Learn-MNparam%20%5B4aad3bb8%5D%20.mp4" length="36289557" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.1-Learn-MNparam%20%5B4aad3bb8%5D%20.mp4</guid>
+      <pubDate>Sun May 01 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>28:47</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood For Log-linear Models</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.1-Learn-MNparam%20%5B4aad3bb8%5D%20.mp4" length="36289557" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.1-Learn-MNparam%20%5B4aad3bb8%5D%20.mp4</guid>
+      <pubDate>Mon May 02 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>28:47</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood For Conditional Random Fields</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.2-Learn-CRFparam%20%5B77a567a3%5D%20.mp4" length="15830942" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.2-Learn-CRFparam%20%5B77a567a3%5D%20.mp4</guid>
+      <pubDate>Tue May 03 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+    </item>
+    <item>
+      <title>Maximum Likelihood For Conditional Random Fields</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.2-Learn-CRFparam%20%5B77a567a3%5D%20.mp4" length="15830942" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.2-Learn-CRFparam%20%5B77a567a3%5D%20.mp4</guid>
+      <pubDate>Wed May 04 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+    </item>
+    <item>
+      <title>Map Estimation For Mrfs And Crfs</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.3-Learn-MNparam-MAP-regularization%20%5B71fd335a%5D%20.mp4" length="11837981" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.3-Learn-MNparam-MAP-regularization%20%5B71fd335a%5D%20.mp4</guid>
+      <pubDate>Thu May 05 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9:59</itunes:duration>
+    </item>
+    <item>
+      <title>Map Estimation For Mrfs And Crfs</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.3-Learn-MNparam-MAP-regularization%20%5B71fd335a%5D%20.mp4" length="11837981" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.3.3-Learn-MNparam-MAP-regularization%20%5B71fd335a%5D%20.mp4</guid>
+      <pubDate>Fri May 06 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>9:59</itunes:duration>
+    </item>
+    <item>
+      <title>Structure Learning Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.1-Learning-structure-overview%20%5B8469aaca%5D%20.mp4" length="6984733" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.1-Learning-structure-overview%20%5B8469aaca%5D%20.mp4</guid>
+      <pubDate>Sat May 07 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:49</itunes:duration>
+    </item>
+    <item>
+      <title>Structure Learning Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.1-Learning-structure-overview%20%5B8469aaca%5D%20.mp4" length="6984733" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.1-Learning-structure-overview%20%5B8469aaca%5D%20.mp4</guid>
+      <pubDate>Sun May 08 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>5:49</itunes:duration>
+    </item>
+    <item>
+      <title>Likelihood Scores</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.2-Learning-structure-BN-likelihood-score%20%5Bb4b96d30%5D%20.mp4" length="19644532" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.2-Learning-structure-BN-likelihood-score%20%5Bb4b96d30%5D%20.mp4</guid>
+      <pubDate>Mon May 09 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:49</itunes:duration>
+    </item>
+    <item>
+      <title>Likelihood Scores</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.2-Learning-structure-BN-likelihood-score%20%5Bb4b96d30%5D%20.mp4" length="19644532" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.2-Learning-structure-BN-likelihood-score%20%5Bb4b96d30%5D%20.mp4</guid>
+      <pubDate>Tue May 10 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:49</itunes:duration>
+    </item>
+    <item>
+      <title>Bic And Asymptotic Consistency</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.3-Learning-structure-BN-BIC-score%20%5Beb81d8c6%5D%20.mp4" length="13143368" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.3-Learning-structure-BN-BIC-score%20%5Beb81d8c6%5D%20.mp4</guid>
+      <pubDate>Wed May 11 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:26</itunes:duration>
+    </item>
+    <item>
+      <title>Bic And Asymptotic Consistency</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.3-Learning-structure-BN-BIC-score%20%5Beb81d8c6%5D%20.mp4" length="13143368" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.3-Learning-structure-BN-BIC-score%20%5Beb81d8c6%5D%20.mp4</guid>
+      <pubDate>Thu May 12 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:26</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Scores</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.4-Learning-structure-BN-Bayesian-score%20%5Bfbc45e54%5D%20.mp4" length="23720803" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.4-Learning-structure-BN-Bayesian-score%20%5Bfbc45e54%5D%20.mp4</guid>
+      <pubDate>Fri May 13 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>20:35</itunes:duration>
+    </item>
+    <item>
+      <title>Bayesian Scores</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.4-Learning-structure-BN-Bayesian-score%20%5Bfbc45e54%5D%20.mp4" length="23720803" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.4-Learning-structure-BN-Bayesian-score%20%5Bfbc45e54%5D%20.mp4</guid>
+      <pubDate>Sat May 14 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>20:35</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Tree Structured Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.5-Learning-structure-BN-search-tree%20%5B402d50a5%5D%20.mp4" length="15158674" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.5-Learning-structure-BN-search-tree%20%5B402d50a5%5D%20.mp4</guid>
+      <pubDate>Sun May 15 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+    </item>
+    <item>
+      <title>Learning Tree Structured Networks</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.5-Learning-structure-BN-search-tree%20%5B402d50a5%5D%20.mp4" length="15158674" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.5-Learning-structure-BN-search-tree%20%5B402d50a5%5D%20.mp4</guid>
+      <pubDate>Mon May 16 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>12:05</itunes:duration>
+    </item>
+    <item>
+      <title>Learning General Graphs: Heuristic Search</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.6-Learning-structure-BN-greedy-search%20%5B48117270%5D%20.mp4" length="28073326" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.6-Learning-structure-BN-greedy-search%20%5B48117270%5D%20.mp4</guid>
+      <pubDate>Tue May 17 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>23:36</itunes:duration>
+    </item>
+    <item>
+      <title>Learning General Graphs: Heuristic Search</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.6-Learning-structure-BN-greedy-search%20%5B48117270%5D%20.mp4" length="28073326" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.6-Learning-structure-BN-greedy-search%20%5B48117270%5D%20.mp4</guid>
+      <pubDate>Wed May 18 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>23:36</itunes:duration>
+    </item>
+    <item>
+      <title>Learning General Graphs: Search And Decomposability</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.7-Learning-structure-BN-search-decomposability%20%5B2195918a%5D%20.mp4" length="18493919" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.7-Learning-structure-BN-search-decomposability%20%5B2195918a%5D%20.mp4</guid>
+      <pubDate>Thu May 19 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:46</itunes:duration>
+    </item>
+    <item>
+      <title>Learning General Graphs: Search And Decomposability</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.7-Learning-structure-BN-search-decomposability%20%5B2195918a%5D%20.mp4" length="18493919" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.4.7-Learning-structure-BN-search-decomposability%20%5B2195918a%5D%20.mp4</guid>
+      <pubDate>Fri May 20 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>15:46</itunes:duration>
+    </item>
+    <item>
+      <title>Learning With Incomplete Data - Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.1-Learn-missing-overview%20%5B7da9ac50%5D%20.mp4" length="26071020" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.1-Learn-missing-overview%20%5B7da9ac50%5D%20.mp4</guid>
+      <pubDate>Sat May 21 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>21:34</itunes:duration>
+    </item>
+    <item>
+      <title>Learning With Incomplete Data - Overview</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.1-Learn-missing-overview%20%5B7da9ac50%5D%20.mp4" length="26071020" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.1-Learn-missing-overview%20%5B7da9ac50%5D%20.mp4</guid>
+      <pubDate>Sun May 22 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>21:34</itunes:duration>
+    </item>
+    <item>
+      <title>Expectation Maximization - Intro</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.2-Learn-missing-EM-intro%20%5B929c8788%5D%20.mp4" length="18942777" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.2-Learn-missing-EM-intro%20%5B929c8788%5D%20.mp4</guid>
+      <pubDate>Mon May 23 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Expectation Maximization - Intro</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.2-Learn-missing-EM-intro%20%5B929c8788%5D%20.mp4" length="18942777" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.2-Learn-missing-EM-intro%20%5B929c8788%5D%20.mp4</guid>
+      <pubDate>Tue May 24 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Analysis Of Em Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.3-Learn-missing-EM-analysis%20%5B6b374d14%5D%20.mp4" length="13505429" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.3-Learn-missing-EM-analysis%20%5B6b374d14%5D%20.mp4</guid>
+      <pubDate>Wed May 25 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:32</itunes:duration>
+    </item>
+    <item>
+      <title>Analysis Of Em Algorithm</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.3-Learn-missing-EM-analysis%20%5B6b374d14%5D%20.mp4" length="13505429" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.3-Learn-missing-EM-analysis%20%5B6b374d14%5D%20.mp4</guid>
+      <pubDate>Thu May 26 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:32</itunes:duration>
+    </item>
+    <item>
+      <title>Em In Practice</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.4-Learn-missing-EM-practice%20%5B176b8e88%5D%20.mp4" length="13303150" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.4-Learn-missing-EM-practice%20%5B176b8e88%5D%20.mp4</guid>
+      <pubDate>Fri May 27 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+    </item>
+    <item>
+      <title>Em In Practice</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.4-Learn-missing-EM-practice%20%5B176b8e88%5D%20.mp4" length="13303150" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.4-Learn-missing-EM-practice%20%5B176b8e88%5D%20.mp4</guid>
+      <pubDate>Sat May 28 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Variables</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.5-Learn-missing-latent%20%5Bc389732f%5D%20.mp4" length="27997807" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.5-Learn-missing-latent%20%5Bc389732f%5D%20.mp4</guid>
+      <pubDate>Sun May 29 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>22:00</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Variables</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.5-Learn-missing-latent%20%5Bc389732f%5D%20.mp4" length="27997807" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.5.5-Learn-missing-latent%20%5Bc389732f%5D%20.mp4</guid>
+      <pubDate>Mon May 30 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>22:00</itunes:duration>
+    </item>
+    <item>
+      <title>Summary: Learning</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.6-Learn-summary%20%5Bc64fb968%5D%20.mp4" length="26936042" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.6-Learn-summary%20%5Bc64fb968%5D%20.mp4</guid>
+      <pubDate>Tue May 31 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>20:11</itunes:duration>
+    </item>
+    <item>
+      <title>Summary: Learning</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.6-Learn-summary%20%5Bc64fb968%5D%20.mp4" length="26936042" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F5.6-Learn-summary%20%5Bc64fb968%5D%20.mp4</guid>
+      <pubDate>Wed Jun 01 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>20:11</itunes:duration>
+    </item>
+    <item>
+      <title>Class Summary</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F6.1-Final-Summary%20%5Be04e60b5%5D%20.mp4" length="33777406" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F6.1-Final-Summary%20%5Be04e60b5%5D%20.mp4</guid>
+      <pubDate>Thu Jun 02 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>24:38</itunes:duration>
+    </item>
+    <item>
+      <title>Class Summary</title>
+      <itunes:author>Daphne Koller</itunes:author>
+      <enclosure url="http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F6.1-Final-Summary%20%5Be04e60b5%5D%20.mp4" length="33777406" type="video/mp4"/>
+      <guid>http://d2bk0s8yylvsxl.cloudfront.net/stanford-pgm/recoded_videos%2F6.1-Final-Summary%20%5Be04e60b5%5D%20.mp4</guid>
+      <pubDate>Fri Jun 03 2011 00:00:00 GMT-0400 (EDT)</pubDate>
+      <itunes:duration>24:38</itunes:duration>
+    </item>
+  </channel>
+</rss>
