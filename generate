@@ -81,6 +81,13 @@ makeCourse = (c) ->
           _name: 'itunes:image',
           _attrs: {href: c.image_url}
         }
+        {
+          _name: 'atom:link'
+          _attrs: 
+            rel: 'self', 
+            href: "http://www.matehat.com/coursera-podcast/#{c.filename}"
+            type: "application/rss+xml"
+        }
       ]..., 
       [makeLecture c, l for l in c.lectures]...
       ]
@@ -98,6 +105,7 @@ for course in courses
     get_page tasks, course.base_url, ($) ->
       course.title = _.capitalize _.trim $('.container h2').text()
       course.image_url = toHTTP $('#course_logo').attr 'src'
+      course.filename = "#{_.underscored course.title}_feed.xml"
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->
     
@@ -119,4 +127,4 @@ for course in courses
             lecture.type = h['content-type']
             
             if tasks == 0
-              writeFileSync "#{_.underscored course.title}_feed.xml", makeCourse course
+              writeFileSync course.filename, makeCourse course
