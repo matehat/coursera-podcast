@@ -86,7 +86,7 @@ makeCourse = (c) ->
           _name: 'atom:link'
           _attrs: 
             rel: 'self', 
-            href: "http://www.matehat.com/coursera-podcast/#{c.filename}"
+            href: c.feed_url
             type: "application/rss+xml"
         }
       ]..., 
@@ -98,6 +98,20 @@ makeCourse = (c) ->
   }
 
 
+writeIndex = ->
+  courseItem = (c) -> "<li><a href=\"#{c.feed_url}\">#{c.title}</a></li>"
+  writeFileSync 'index.html', """
+  <html>
+  <body>
+    <ul>
+    #{[courseItem c for c in courses].join('')}
+    </ul>
+  </body>
+  </html>
+  """
+
+courseCount = courses.length
+
 for course in courses
   do (course) ->
     tasks = 0
@@ -107,6 +121,7 @@ for course in courses
       course.title = _.capitalize _.trim $('.container h2').text()
       course.image_url = toHTTP $('#course_logo').attr 'src'
       course.filename = "#{_.underscored course.title}_feed.xml"
+      course.feed_url = "http://www.matehat.com/coursera-podcast/#{course.filename}"
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->
     
@@ -129,3 +144,8 @@ for course in courses
             
             if tasks == 0
               writeFileSync course.filename, makeCourse course
+              courseCount--
+              
+              if courseCount == 0
+                writeIndex()
+              
