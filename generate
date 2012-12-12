@@ -122,7 +122,7 @@ for course in courses
   
     get_page tasks, course.base_url, ($) ->
       course.title = _.capitalize _.trim $('.container h2').text()
-      course.image_url = toHTTP $('#course_logo').attr 'src'
+      course.image_url = toHTTP $('#course_logo').attr('src')
       course.filename = "#{_.underscored course.title}_feed.xml"
       course.feed_url = "http://www.matehat.com/coursera-podcast/#{course.filename}"
     
@@ -136,7 +136,7 @@ for course in courses
         link = $ this
         pts = link.text().split(' (')
         
-        lecture.title = toTitleCase _.escapeHTML pts[0][1...]
+        lecture.title = toTitleCase _.escapeHTML pts[0][1...].replace('&', 'and')
         lecture.duration = pts[1][...-1] if pts[1]
       
         get_page tasks, link.attr("data-lecture-view-link"), ($) ->
@@ -144,13 +144,11 @@ for course in courses
           
           get_headers tasks, lecture.url, (h) ->
             lecture.length = h['content-length']
-            console.log i, baseDate().toDate(), baseDate().add('d', i)
             lecture.pubDate = (baseDate().add('d', i).toDate()).toString()
             lecture.type = h['content-type']
             
             if tasks == 0
               writeFileSync course.filename, makeCourse course
-              console.log "Finished #{course.filename}"
               courseCount--
               
               if courseCount == 0
