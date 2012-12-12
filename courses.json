@@ -8,5 +8,15 @@
         "base_url": "https://class.coursera.org/sna-2012-001/",
         "author": "Lada Adamic",
         "summary": "This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet."
+    },
+    {
+        "base_url": "https://class.coursera.org/crypto-2012-002/",
+        "author": "Dan Boneh",
+        "summary": "Learn about the inner workings of cryptographic primitives and how to apply this knowledge in real-world applications!"
+    },
+    {
+        "base_url": "https://class.coursera.org/pgm-2012-002/",
+        "author": "Daphne Koller",
+        "summary": "In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques."
     }
 ]

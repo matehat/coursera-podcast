@@ -3,6 +3,7 @@
 jsdom = require 'jsdom'
 js2xml = require 'jstoxml'
 _ = require 'underscore.string'
+moment = require 'moment'
 
 {readFileSync, writeFileSync} = require 'fs'
 {parse, format} = require 'url'
@@ -58,7 +59,7 @@ makeLecture = (c, l) ->
       }
       {guid: l.url}
       {pubDate: l.pubDate}
-      {'itunes:duration': l.duration or '0:00'}
+      {'itunes:duration': l.duration or '5:00'}
     ]
   }
 
@@ -110,6 +111,8 @@ writeIndex = ->
   </html>
   """
 
+baseDate = -> moment [2011]
+
 courseCount = courses.length
 
 for course in courses
@@ -125,7 +128,9 @@ for course in courses
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->
     
-      $("a[data-lecture-view-link]").each ->
+      day = 0
+      
+      $("a[data-lecture-view-link]").each (i) ->
         
         course.lectures.push lecture = {}
         link = $ this
@@ -139,11 +144,13 @@ for course in courses
           
           get_headers tasks, lecture.url, (h) ->
             lecture.length = h['content-length']
-            lecture.pubDate = h['last-modified']
+            console.log i, baseDate().toDate(), baseDate().add('d', i)
+            lecture.pubDate = (baseDate().add('d', i).toDate()).toString()
             lecture.type = h['content-type']
             
             if tasks == 0
               writeFileSync course.filename, makeCourse course
+              console.log "Finished #{course.filename}"
               courseCount--
               
               if courseCount == 0
