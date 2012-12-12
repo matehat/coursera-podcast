@@ -57,7 +57,7 @@ makeLecture = (c, l) ->
         }
       }
       {guid: l.url}
-      {pudDate: l.pubDate}
+      {pubDate: l.pubDate}
       {'itunes:duration': l.duration or '0:00'}
     ]
   }
