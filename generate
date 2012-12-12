@@ -5,7 +5,7 @@ js2xml = require 'jstoxml'
 _ = require 'underscore.string'
 
 {readFileSync, writeFileSync} = require 'fs'
-{parse} = require 'url'
+{parse, format} = require 'url'
 https = require 'https'
 
 courses = JSON.parse readFileSync 'courses.json', 'utf-8'
@@ -15,6 +15,11 @@ toTitleCase = (str) ->
     str.replace /\w\S*/g, (txt) ->
       txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
 
+
+toHTTP = (url) ->
+  url = parse url
+  url.protocol = 'http:'
+  format url
 
 get_page = (ctr, url, cb) ->
   ctr++
@@ -92,7 +97,7 @@ for course in courses
   
     get_page tasks, course.base_url, ($) ->
       course.title = _.capitalize _.trim $('.container h2').text()
-      course.image_url = $('#course_logo').attr 'src'
+      course.image_url = toHTTP $('#course_logo').attr 'src'
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->
     
@@ -106,7 +111,7 @@ for course in courses
         lecture.duration = pts[1][...-1] if pts[1]
       
         get_page tasks, link.attr("data-lecture-view-link"), ($) ->
-          lecture.url = $("video source[type=\"video/mp4\"]").attr 'src'
+          lecture.url = toHTTP $("video source[type=\"video/mp4\"]").attr 'src'
           
           get_headers tasks, lecture.url, (h) ->
             lecture.length = h['content-length']

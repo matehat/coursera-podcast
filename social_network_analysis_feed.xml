@@ -8,260 +8,260 @@
     <itunes:author>Lada Adamic</itunes:author>
     <itunes:summary>This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet.</itunes:summary>
     <description>This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet.</description>
-    <itunes:image href="https://s3.amazonaws.com/coursera/topics/sna/large-icon.png"/>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/sna/large-icon.png"/>
     <item>
       <title>1a Why Social Network Analysis?</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1A%20%5B4fa29f1a%5D%20.mp4" length="23200498" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1A%20%5B4fa29f1a%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1A%20%5B4fa29f1a%5D%20.mp4" length="23200498" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1A%20%5B4fa29f1a%5D%20.mp4</guid>
       <pudDate>Wed, 22 Aug 2012 16:34:29 GMT</pudDate>
       <itunes:duration>13:54</itunes:duration>
     </item>
     <item>
       <title>1b Software Tools</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1BsoftwareTools%20%5Bb5ca1dfd%5D%20.mp4" length="22136943" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1BsoftwareTools%20%5Bb5ca1dfd%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1BsoftwareTools%20%5Bb5ca1dfd%5D%20.mp4" length="22136943" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1BsoftwareTools%20%5Bb5ca1dfd%5D%20.mp4</guid>
       <pudDate>Tue, 21 Aug 2012 18:00:19 GMT</pudDate>
       <itunes:duration>13:13</itunes:duration>
     </item>
     <item>
       <title>1c Degree And Connected Components</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1D%20%5B54113e65%5D%20.mp4" length="32882576" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1D%20%5B54113e65%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1D%20%5B54113e65%5D%20.mp4" length="32882576" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1D%20%5B54113e65%5D%20.mp4</guid>
       <pudDate>Thu, 23 Aug 2012 17:39:22 GMT</pudDate>
       <itunes:duration>20:32</itunes:duration>
     </item>
     <item>
       <title>1d Gephi Demo</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1C%20%5B4d565b67%5D%20.mp4" length="18747159" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1C%20%5B4d565b67%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1C%20%5B4d565b67%5D%20.mp4" length="18747159" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture1C%20%5B4d565b67%5D%20.mp4</guid>
       <pudDate>Wed, 22 Aug 2012 23:45:49 GMT</pudDate>
       <itunes:duration>9:20</itunes:duration>
     </item>
     <item>
       <title>2p Intro Remarks For Week 2</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2preface%20%5Bd2a6e9cc%5D%20.mp4" length="20490090" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2preface%20%5Bd2a6e9cc%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2preface%20%5Bd2a6e9cc%5D%20.mp4" length="20490090" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2preface%20%5Bd2a6e9cc%5D%20.mp4</guid>
       <pudDate>Sun, 30 Sep 2012 22:11:18 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>2a Introduction To Random Graph Models</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2ARandomGraphs%20%5B0b50939f%5D%20.mp4" length="28409859" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2ARandomGraphs%20%5B0b50939f%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2ARandomGraphs%20%5B0b50939f%5D%20.mp4" length="28409859" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2ARandomGraphs%20%5B0b50939f%5D%20.mp4</guid>
       <pudDate>Wed, 22 Aug 2012 02:53:28 GMT</pudDate>
       <itunes:duration>16:58</itunes:duration>
     </item>
     <item>
       <title>2b Random Graphs And Alternative Models</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2BRandomGraphsEval%20%5Be6b94831%5D%20.mp4" length="35325514" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2BRandomGraphsEval%20%5Be6b94831%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2BRandomGraphsEval%20%5Be6b94831%5D%20.mp4" length="35325514" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2BRandomGraphsEval%20%5Be6b94831%5D%20.mp4</guid>
       <pudDate>Wed, 22 Aug 2012 03:47:54 GMT</pudDate>
       <itunes:duration>20:04</itunes:duration>
     </item>
     <item>
       <title>2c Models Of Network Growth</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2Cgrowthandpref%20%5B007385c5%5D%20.mp4" length="42582683" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2Cgrowthandpref%20%5B007385c5%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2Cgrowthandpref%20%5B007385c5%5D%20.mp4" length="42582683" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture2Cgrowthandpref%20%5B007385c5%5D%20.mp4</guid>
       <pudDate>Wed, 22 Aug 2012 05:44:56 GMT</pudDate>
       <itunes:duration>25:28</itunes:duration>
     </item>
     <item>
       <title>3a Degree, Betweenness, Closeness</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3a%20%5B2d222253%5D%20.mp4" length="43916165" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3a%20%5B2d222253%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3a%20%5B2d222253%5D%20.mp4" length="43916165" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3a%20%5B2d222253%5D%20.mp4</guid>
       <pudDate>Sun, 16 Sep 2012 22:48:48 GMT</pudDate>
       <itunes:duration>26:41</itunes:duration>
     </item>
     <item>
-      <title>3b Eigenvector and Directed</title>
+      <title>3b Eigenvector &Amp; Directed</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Fcentrality3B%20%5B41db1292%5D%20.mp4" length="26054365" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Fcentrality3B%20%5B41db1292%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Fcentrality3B%20%5B41db1292%5D%20.mp4" length="26054365" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Fcentrality3B%20%5B41db1292%5D%20.mp4</guid>
       <pudDate>Sun, 16 Sep 2012 19:16:03 GMT</pudDate>
       <itunes:duration>16:49</itunes:duration>
     </item>
     <item>
       <title>3c Centrality Applications</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3C%20%5B4646e134%5D%20.mp4" length="32531305" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3C%20%5B4646e134%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3C%20%5B4646e134%5D%20.mp4" length="32531305" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3C%20%5B4646e134%5D%20.mp4</guid>
       <pudDate>Sun, 16 Sep 2012 20:09:52 GMT</pudDate>
       <itunes:duration>19:44</itunes:duration>
     </item>
     <item>
       <title>3d Power Laws</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3D%20%5B31ffbe36%5D%20.mp4" length="33407637" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3D%20%5B31ffbe36%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3D%20%5B31ffbe36%5D%20.mp4" length="33407637" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture3D%20%5B31ffbe36%5D%20.mp4</guid>
       <pudDate>Sun, 16 Sep 2012 20:05:46 GMT</pudDate>
       <itunes:duration>20:15</itunes:duration>
     </item>
     <item>
       <title>3e Cameron Marlow On Data Science</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FCameronMarlowSNA%20%5Bdca47c6e%5D%20.mp4" length="12500642" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FCameronMarlowSNA%20%5Bdca47c6e%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FCameronMarlowSNA%20%5Bdca47c6e%5D%20.mp4" length="12500642" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FCameronMarlowSNA%20%5Bdca47c6e%5D%20.mp4</guid>
       <pudDate>Mon, 08 Oct 2012 05:23:37 GMT</pudDate>
       <itunes:duration>3:25</itunes:duration>
     </item>
     <item>
       <title>4a Why Detect Communities?</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4A%20%5Bebb2e806%5D%20.mp4" length="17392118" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4A%20%5Bebb2e806%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4A%20%5Bebb2e806%5D%20.mp4" length="17392118" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4A%20%5Bebb2e806%5D%20.mp4</guid>
       <pudDate>Wed, 10 Oct 2012 21:28:41 GMT</pudDate>
       <itunes:duration>10:22</itunes:duration>
     </item>
     <item>
       <title>4b Heuristics For Finding Communities</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture4B%20%5B54928534%5D%20.mp4" length="25178438" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture4B%20%5B54928534%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture4B%20%5B54928534%5D%20.mp4" length="25178438" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2Flecture4B%20%5B54928534%5D%20.mp4</guid>
       <pudDate>Thu, 11 Oct 2012 17:40:30 GMT</pudDate>
       <itunes:duration>13:51</itunes:duration>
     </item>
     <item>
       <title>4c Community Finding</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4C%20%5B7bf447f8%5D%20.mp4" length="35379489" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4C%20%5B7bf447f8%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4C%20%5B7bf447f8%5D%20.mp4" length="35379489" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture4C%20%5B7bf447f8%5D%20.mp4</guid>
       <pudDate>Tue, 16 Oct 2012 16:47:26 GMT</pudDate>
       <itunes:duration>22:16</itunes:duration>
     </item>
     <item>
       <title>4d Sna @ Linkedin</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLinkedIn%20%5Bad6890b5%5D%20.mp4" length="74188821" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLinkedIn%20%5Bad6890b5%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLinkedIn%20%5Bad6890b5%5D%20.mp4" length="74188821" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLinkedIn%20%5Bad6890b5%5D%20.mp4</guid>
       <pudDate>Fri, 12 Oct 2012 23:36:46 GMT</pudDate>
       <itunes:duration>24:05</itunes:duration>
     </item>
     <item>
       <title>5a Small World Experiments </title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5A%20%5B376004d5%5D%20.mp4" length="17978329" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5A%20%5B376004d5%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5A%20%5B376004d5%5D%20.mp4" length="17978329" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5A%20%5B376004d5%5D%20.mp4</guid>
       <pudDate>Thu, 18 Oct 2012 03:54:15 GMT</pudDate>
       <itunes:duration>12:28</itunes:duration>
     </item>
     <item>
       <title>5b Clustering And Motifs</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5B%20%5Bb182b48e%5D%20.mp4" length="29895762" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5B%20%5Bb182b48e%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5B%20%5Bb182b48e%5D%20.mp4" length="29895762" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5B%20%5Bb182b48e%5D%20.mp4</guid>
       <pudDate>Thu, 18 Oct 2012 00:43:20 GMT</pudDate>
       <itunes:duration>20:45</itunes:duration>
     </item>
     <item>
       <title>5c Small World Models</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5C%20%5B3e705b04%5D%20.mp4" length="34519702" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5C%20%5B3e705b04%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5C%20%5B3e705b04%5D%20.mp4" length="34519702" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5C%20%5B3e705b04%5D%20.mp4</guid>
       <pudDate>Thu, 18 Oct 2012 00:48:04 GMT</pudDate>
       <itunes:duration>20:27</itunes:duration>
     </item>
     <item>
       <title>5d Origins Of Small Worlds</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5D%20%5B92fcd05c%5D%20.mp4" length="15295245" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5D%20%5B92fcd05c%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5D%20%5B92fcd05c%5D%20.mp4" length="15295245" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture5D%20%5B92fcd05c%5D%20.mp4</guid>
       <pudDate>Thu, 18 Oct 2012 00:38:11 GMT</pudDate>
       <itunes:duration>9:19</itunes:duration>
     </item>
     <item>
       <title>5e  Mathieu Bastian</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FMathieuBastianOfGephi%20%5B6f3285e7%5D%20.mp4" length="12326998" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FMathieuBastianOfGephi%20%5B6f3285e7%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FMathieuBastianOfGephi%20%5B6f3285e7%5D%20.mp4" length="12326998" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FMathieuBastianOfGephi%20%5B6f3285e7%5D%20.mp4</guid>
       <pudDate>Mon, 22 Oct 2012 15:02:44 GMT</pudDate>
       <itunes:duration>Gephi + LinkedIn</itunes:duration>
     </item>
     <item>
       <title>6a Network Topology And Diffusion</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6A%20%5Bde2a16a4%5D%20.mp4" length="21549714" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6A%20%5Bde2a16a4%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6A%20%5Bde2a16a4%5D%20.mp4" length="21549714" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6A%20%5Bde2a16a4%5D%20.mp4</guid>
       <pudDate>Thu, 25 Oct 2012 02:58:20 GMT</pudDate>
       <itunes:duration>12:34</itunes:duration>
     </item>
     <item>
       <title>6b Complex Contagion</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6B%20%5Bab317964%5D%20.mp4" length="35723920" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6B%20%5Bab317964%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6B%20%5Bab317964%5D%20.mp4" length="35723920" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6B%20%5Bab317964%5D%20.mp4</guid>
       <pudDate>Thu, 25 Oct 2012 04:41:46 GMT</pudDate>
       <itunes:duration>22:43</itunes:duration>
     </item>
     <item>
       <title>6c Innovation And Coordination</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6C%20%5Bb425e768%5D%20.mp4" length="26477459" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6C%20%5Bb425e768%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6C%20%5Bb425e768%5D%20.mp4" length="26477459" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture6C%20%5Bb425e768%5D%20.mp4</guid>
       <pudDate>Thu, 25 Oct 2012 03:16:51 GMT</pudDate>
       <itunes:duration>14:54</itunes:duration>
     </item>
     <item>
       <title>6d</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FEricSun%20%5B73ec8df8%5D%20.mp4" length="23963180" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FEricSun%20%5B73ec8df8%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FEricSun%20%5B73ec8df8%5D%20.mp4" length="23963180" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FEricSun%20%5B73ec8df8%5D%20.mp4</guid>
       <pudDate>Mon, 29 Oct 2012 07:24:34 GMT</pudDate>
       <itunes:duration>optional) Eric Sun of Facebook on geo + socia</itunes:duration>
     </item>
     <item>
       <title>7a Cool And Unusual Applications</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture7A%20%5B5c7a30cd%5D%20.mp4" length="7222456" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture7A%20%5B5c7a30cd%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture7A%20%5B5c7a30cd%5D%20.mp4" length="7222456" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture7A%20%5B5c7a30cd%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 02:03:24 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>7b Predicting Recipe Ratings Using Ingredient Networks</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F7Brecipes%20%5B7f3b363a%5D%20.mp4" length="19871168" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F7Brecipes%20%5B7f3b363a%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F7Brecipes%20%5B7f3b363a%5D%20.mp4" length="19871168" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F7Brecipes%20%5B7f3b363a%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 01:35:30 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>8a Network Resilience</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8A%20%5B34e4e7b1%5D%20.mp4" length="20292888" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8A%20%5B34e4e7b1%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8A%20%5B34e4e7b1%5D%20.mp4" length="20292888" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8A%20%5B34e4e7b1%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 04:36:59 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>8b Resilience And Assortativity</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8B%20%5B647d5c56%5D%20.mp4" length="16600359" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8B%20%5B647d5c56%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8B%20%5B647d5c56%5D%20.mp4" length="16600359" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2FLecture8B%20%5B647d5c56%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 04:36:17 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>8c Resilience And The Power Grid</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8C%20%5B431f306d%5D%20.mp4" length="18565579" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8C%20%5B431f306d%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8C%20%5B431f306d%5D%20.mp4" length="18565579" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8C%20%5B431f306d%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 04:04:55 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
     <item>
       <title>8d Concluding Remarks</title>
       <itunes:author>Lada Adamic</itunes:author>
-      <enclosure url="https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8Cconcludingremarks%20%5B2c8b5a79%5D%20.mp4" length="34925304" type="video/mp4"/>
-      <guid>https://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8Cconcludingremarks%20%5B2c8b5a79%5D%20.mp4</guid>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8Cconcludingremarks%20%5B2c8b5a79%5D%20.mp4" length="34925304" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/sna/recoded_videos%2F8Cconcludingremarks%20%5B2c8b5a79%5D%20.mp4</guid>
       <pudDate>Mon, 05 Nov 2012 03:23:21 GMT</pudDate>
       <itunes:duration>0:00</itunes:duration>
     </item>
