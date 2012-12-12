@@ -102,7 +102,7 @@ for course in courses
         link = $ this
         pts = link.text().split(' (')
         
-        lecture.title = toTitleCase pts[0][1...]
+        lecture.title = toTitleCase _.escapeHTML pts[0][1...]
         lecture.duration = pts[1][...-1] if pts[1]
       
         get_page tasks, link.attr("data-lecture-view-link"), ($) ->
