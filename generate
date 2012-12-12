@@ -1,0 +1,111 @@
+#!/usr/bin/env coffee
+
+jsdom = require 'jsdom'
+js2xml = require 'jstoxml'
+_ = require 'underscore.string'
+
+{readFileSync, writeFileSync} = require 'fs'
+{parse} = require 'url'
+https = require 'https'
+
+courses = JSON.parse readFileSync 'courses.json', 'utf-8'
+jquery = "http://code.jquery.com/jquery.js"
+
+get_page = (ctr, url, cb) ->
+  ctr++
+  jsdom.env url, [jquery], (errors, window) ->
+    ctr--
+    cb window.jQuery
+
+get_headers = (ctr, url, cb) ->
+  ctr++
+  url = parse url
+  options = {
+    hostname: url.hostname
+    port: 443
+    path: url.path
+    method: 'HEAD'
+  }
+  req = https.request options, (res) ->
+    ctr--
+    cb res.headers
+  
+  req.end()
+
+
+makeLecture = (c, l) ->
+  {
+    item: [
+      {title: l.title}
+      {'itunes:author': c.author}
+      {
+        _name: 'enclosure'
+        _attrs: {
+          url: l.url
+          length: l.length
+          type: l.type
+        }
+      }
+      {guid: l.url}
+      {pudDate: l.pubDate}
+      {'itunes:duration': l.duration or '0:00'}
+    ]
+  }
+
+makeCourse = (c) ->
+  js2xml.toXML {
+    _name: 'rss'
+    _attrs:
+      'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+      version: '2.0'
+    _content:
+      channel: [[
+        {title: c.title}
+        {link: c.base_url}
+        {language: 'en-us'}
+        {copyright: 'Copyright 2012 Coursera'}
+        {'itunes:author': c.author}
+        {'itunes:summary': c.summary}
+        {description: c.summary}
+        { 
+          _name: 'itunes:image',
+          _attrs: {href: c.image_url}
+        }
+      ]..., 
+      [makeLecture c, l for l in c.lectures]...
+      ]
+  }, {
+    header: true
+    indent: '  '
+  }
+
+
+for course in courses
+  do (course) ->
+    tasks = 0
+    course.lectures = []
+  
+    get_page tasks, course.base_url, ($) ->
+      course.title = _.trim $('.container h2').text()
+      course.image_url = $('#course_logo').attr 'src'
+    
+    get_page tasks, "#{course.base_url}lecture/preview", ($) ->
+    
+      $("a[data-lecture-view-link]").each ->
+        
+        course.lectures.push lecture = {}
+        link = $ this
+        pts = link.text().split(' (')
+        lecture.title = pts[0][1...]
+        lecture.duration = pts[1][...-1] if pts[1]
+      
+        get_page tasks, link.attr("data-lecture-view-link"), ($) ->
+          lecture.url = $("video source[type=\"video/mp4\"]").attr 'src'
+          
+          get_headers tasks, lecture.url, (h) ->
+            lecture.length = h['content-length']
+            lecture.pubDate = h['last-modified']
+            lecture.type = h['content-type']
+            
+            if tasks == 0
+              writeFileSync "#{_.underscored course.title}_feed.xml", makeCourse course

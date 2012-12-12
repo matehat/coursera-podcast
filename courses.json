@@ -1,0 +1,12 @@
+[
+    {
+        "base_url": "https://class.coursera.org/gamification-2012-001/",
+        "author": "Kevin Werbach",
+        "summary": "Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively."
+    },
+    {
+        "base_url": "https://class.coursera.org/sna-2012-001/",
+        "author": "Lada Adamic",
+        "summary": "This course will use social network analysis, both its theory and computational tools, to make sense of the social and information networks that have been fueled and rendered accessible by the internet."
+    }
+]
