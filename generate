@@ -114,6 +114,8 @@ writeIndex = ->
   """
 
 baseDate = -> moment [2011]
+cleanTitle = (text) ->
+  _.capitalize _.trim text
 
 courseCount = courses.length
 
@@ -123,9 +125,9 @@ for course in courses
     course.lectures = []
   
     get_page tasks, course.base_url, ($) ->
-      course.title = _.capitalize _.trim $('.container h2').text()
+      course.title = $('.container h2').text()
       course.image_url = toHTTP $('#course_logo').attr('src')
-      course.filename = "feeds/#{_.underscored course.title}.xml"
+      course.filename = "feeds/#{_.slugify course.title}.xml"
       course.feed_url = "http://www.matehat.com/coursera-podcast/#{course.filename}"
     
     get_page tasks, "#{course.base_url}lecture/preview", ($) ->

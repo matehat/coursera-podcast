@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>
+                Algorithms: Design and Analysis, Part 2            </title>
+    <link>https://class.coursera.org/algo2-2012-001/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2012 Coursera</copyright>
+    <itunes:author>Tim Roughgarden</itunes:author>
+    <itunes:summary>In this course you will learn several fundamental principles of advanced algorithm design: greedy algorithms and applications; dynamic programming and applications; NP-completeness and what it means for the algorithm designer; the design and analysis of heuristics; and more.</itunes:summary>
+    <description>In this course you will learn several fundamental principles of advanced algorithm design: greedy algorithms and applications; dynamic programming and applications; NP-completeness and what it means for the algorithm designer; the design and analysis of heuristics; and more.</description>
+    <itunes:image href="http://s3.amazonaws.com/coursera/topics/algo2/large-icon.png"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/algorithms:_design_and_analysis,_part_2.xml" type="application/rss+xml"/>
+    <item>
+      <title>Application: Internet Routing</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F1%20-%201%20-%20Application%20Internet%20Routing%20%2811%20min%29%20%5B6cb92f13%5D%20.mp4" length="14522426" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F1%20-%201%20-%20Application%20Internet%20Routing%20%2811%20min%29%20%5B6cb92f13%5D%20.mp4</guid>
+      <pubDate>Sat Jan 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Application: Sequence Alignment</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F1%20-%202%20-%20Application%20Sequence%20Alignment%20%289%20min%29%20%5B722963dd%5D%20.mp4" length="11640014" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F1%20-%202%20-%20Application%20Sequence%20Alignment%20%289%20min%29%20%5B722963dd%5D%20.mp4</guid>
+      <pubDate>Sun Jan 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>About The Course [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%201%20-%20About%20the%20Course%20%2817%20min%29%20%5B048ca5a3%5D%20.mp4" length="19220948" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%201%20-%20About%20the%20Course%20%2817%20min%29%20%5B048ca5a3%5D%20.mp4</guid>
+      <pubDate>Mon Jan 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17 min</itunes:duration>
+    </item>
+    <item>
+      <title>Why Study Algorithms? [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%202%20-%20Introduction%20%20Why%20Study%20Algorithms%20%20%2819%20min%29%20%5Baabee07c%5D%20.mp4" length="21232774" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%202%20-%20Introduction%20%20Why%20Study%20Algorithms%20%20%2819%20min%29%20%5Baabee07c%5D%20.mp4</guid>
+      <pubDate>Tue Jan 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>19 min</itunes:duration>
+    </item>
+    <item>
+      <title>Guiding Principles For Analysis Of Algorithms [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%203%20-%20Guiding%20Principles%20for%20Analysis%20of%20Algorithms%20%2815%20min%29%20%5B855b56f0%5D%20.mp4" length="19775415" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%203%20-%20Guiding%20Principles%20for%20Analysis%20of%20Algorithms%20%2815%20min%29%20%5B855b56f0%5D%20.mp4</guid>
+      <pubDate>Wed Jan 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Big-oh Notation [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%204%20-%20Big-Oh%20Notation%20%284%20min%29%20%5B438918e9%5D%20.mp4" length="4575666" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%204%20-%20Big-Oh%20Notation%20%284%20min%29%20%5B438918e9%5D%20.mp4</guid>
+      <pubDate>Thu Jan 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>4 min</itunes:duration>
+    </item>
+    <item>
+      <title>Graph Representations [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%205%20-%20Graph%20Representations%20%2814%20min%29%20%5B2d064709%5D%20.mp4" length="15188495" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%205%20-%20Graph%20Representations%20%2814%20min%29%20%5B2d064709%5D%20.mp4</guid>
+      <pubDate>Fri Jan 07 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Graph Search - Overview [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%206%20-%20Graph%20Search%20-%20Overview%20%2823%20min%29%20%5Be49996be%5D%20.mp4" length="25539259" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%206%20-%20Graph%20Search%20-%20Overview%20%2823%20min%29%20%5Be49996be%5D%20.mp4</guid>
+      <pubDate>Sat Jan 08 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>23 min</itunes:duration>
+    </item>
+    <item>
+      <title>Dijkstra&#39;s Shortest-path Algorithm [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%207%20-%20Dijkstras%20Shortest-Path%20Algorithm%20%2821%20min%29%20%5Bcbc12e6c%5D%20.mp4" length="22989333" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%207%20-%20Dijkstras%20Shortest-Path%20Algorithm%20%2821%20min%29%20%5Bcbc12e6c%5D%20.mp4</guid>
+      <pubDate>Sun Jan 09 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>21 min</itunes:duration>
+    </item>
+    <item>
+      <title>Data Structures: Overview [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%208%20-%20Data%20Structures%20Overview%20%285%20min%29%20%5B2f97a690%5D%20.mp4" length="5130658" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%208%20-%20Data%20Structures%20Overview%20%285%20min%29%20%5B2f97a690%5D%20.mp4</guid>
+      <pubDate>Mon Jan 10 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5</itunes:duration>
+    </item>
+    <item>
+      <title>Heaps: Operations And Applications [Part I Review - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%209%20-%20Heaps%20Operations%20and%20Applications%20%2818%20min%29%20%5Bab64ebe3%5D%20.mp4" length="20436090" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F2%20-%209%20-%20Heaps%20Operations%20and%20Applications%20%2818%20min%29%20%5Bab64ebe3%5D%20.mp4</guid>
+      <pubDate>Tue Jan 11 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>18</itunes:duration>
+    </item>
+    <item>
+      <title>Introduction To Greedy Algorithms</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F3%20-%201%20-%20Introduction%20to%20Greedy%20Algorithms%20%2813%20min%29%20%5B79a25644%5D%20.mp4" length="18911748" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F3%20-%201%20-%20Introduction%20to%20Greedy%20Algorithms%20%2813%20min%29%20%5B79a25644%5D%20.mp4</guid>
+      <pubDate>Wed Jan 12 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Application: Optimal Caching</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F3%20-%202%20-%20Application%20Optimal%20Caching%20%2811%20min%29%20%5Bcfe3f405%5D%20.mp4" length="15693489" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F3%20-%202%20-%20Application%20Optimal%20Caching%20%2811%20min%29%20%5Bcfe3f405%5D%20.mp4</guid>
+      <pubDate>Thu Jan 13 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Problem Definition</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%201%20-%20Problem%20Definition%20%286%20min%29%20%5B2b4ea5b2%5D%20.mp4" length="8169170" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%201%20-%20Problem%20Definition%20%286%20min%29%20%5B2b4ea5b2%5D%20.mp4</guid>
+      <pubDate>Fri Jan 14 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>6 min</itunes:duration>
+    </item>
+    <item>
+      <title>A Greedy Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%202%20-%20A%20Greedy%20Algorithm%20%2813%20min%29%20%5B2974e0a3%5D%20.mp4" length="17991932" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%202%20-%20A%20Greedy%20Algorithm%20%2813%20min%29%20%5B2974e0a3%5D%20.mp4</guid>
+      <pubDate>Sat Jan 15 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof - Part I</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%203%20-%20Correctness%20Proof%20-%20Part%20I%20%287%20min%29%20%5Bb56d6c56%5D%20.mp4" length="9670685" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%203%20-%20Correctness%20Proof%20-%20Part%20I%20%287%20min%29%20%5Bb56d6c56%5D%20.mp4</guid>
+      <pubDate>Sun Jan 16 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof - Part Ii</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%204%20-%20Correctness%20Proof%20-%20Part%20II%20%285%20min%29%20%5Bddab0f06%5D%20.mp4" length="6518932" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%204%20-%20Correctness%20Proof%20-%20Part%20II%20%285%20min%29%20%5Bddab0f06%5D%20.mp4</guid>
+      <pubDate>Mon Jan 17 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>5 min</itunes:duration>
+    </item>
+    <item>
+      <title>Handling Ties [Advanced - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%205%20-%20Handling%20Ties%20%287%20min%29%20%5B36e04b70%5D%20.mp4" length="10122129" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F4%20-%205%20-%20Handling%20Ties%20%287%20min%29%20%5B36e04b70%5D%20.mp4</guid>
+      <pubDate>Tue Jan 18 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>7 min</itunes:duration>
+    </item>
+    <item>
+      <title>Mst Problem Definition</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%201%20-%20MST%20Problem%20Definition%20%2811%20min%29%20%5B3682c182%5D%20.mp4" length="15729158" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%201%20-%20MST%20Problem%20Definition%20%2811%20min%29%20%5B3682c182%5D%20.mp4</guid>
+      <pubDate>Wed Jan 19 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>11 min</itunes:duration>
+    </item>
+    <item>
+      <title>Prim&#39;s Mst Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%202%20-%20Prim%27s%20MST%20Algorithm%20%288%20min%29%20%5B5df4b92e%5D%20.mp4" length="10478217" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%202%20-%20Prim%27s%20MST%20Algorithm%20%288%20min%29%20%5B5df4b92e%5D%20.mp4</guid>
+      <pubDate>Thu Jan 20 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof I</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%203%20-%20Correctness%20Proof%20I%20%2816%20min%29%20%5Bf9f5f689%5D%20.mp4" length="19942183" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%203%20-%20Correctness%20Proof%20I%20%2816%20min%29%20%5Bf9f5f689%5D%20.mp4</guid>
+      <pubDate>Fri Jan 21 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>16 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof Ii</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%204%20-%20Correctness%20Proof%20II%20%288%20min%29%20%5Bd5005e55%5D%20.mp4" length="10631116" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%204%20-%20Correctness%20Proof%20II%20%288%20min%29%20%5Bd5005e55%5D%20.mp4</guid>
+      <pubDate>Sat Jan 22 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Proof Of Cut Property [Advanced - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%205%20-%20Proof%20of%20Cut%20Property%20%2812%20min%29%20%5Bbf1a2bfb%5D%20.mp4" length="15721583" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%205%20-%20Proof%20of%20Cut%20Property%20%2812%20min%29%20%5Bbf1a2bfb%5D%20.mp4</guid>
+      <pubDate>Sun Jan 23 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Fast Implementation I</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%206%20-%20Fast%20Implementation%20I%20%2815%20min%29%20%5B351642eb%5D%20.mp4" length="20617966" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%206%20-%20Fast%20Implementation%20I%20%2815%20min%29%20%5B351642eb%5D%20.mp4</guid>
+      <pubDate>Mon Jan 24 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>15 min</itunes:duration>
+    </item>
+    <item>
+      <title>Fast Implementation Ii</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%207%20-%20Fast%20Implementation%20II%20%2810%20min%29%20%5B1c4bd5f8%5D%20.mp4" length="13804746" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F5%20-%207%20-%20Fast%20Implementation%20II%20%2810%20min%29%20%5B1c4bd5f8%5D%20.mp4</guid>
+      <pubDate>Tue Jan 25 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Kruskal&#39;s Mst Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%201%20-%20Kruskal%27s%20MST%20Algorithm%20%288%20min%29%20%5B45de840f%5D%20.mp4" length="11553843" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%201%20-%20Kruskal%27s%20MST%20Algorithm%20%288%20min%29%20%5B45de840f%5D%20.mp4</guid>
+      <pubDate>Wed Jan 26 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>8 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Of Kruskal&#39;s Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%202-%20Correctness%20of%20Kruskal%27s%20Algorithm%20%289%20min%29%20%5B0ce1ddba%5D%20.mp4" length="12899080" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%202-%20Correctness%20of%20Kruskal%27s%20Algorithm%20%289%20min%29%20%5B0ce1ddba%5D%20.mp4</guid>
+      <pubDate>Thu Jan 27 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Implementing Kruskal&#39;s Algorithm Via Union-find I</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%203%20-%20Implementing%20Kruskal%27s%20Algorithm%20via%20Union-Find%20I%20%289%20min%29%20%5Bf2558f1a%5D%20.mp4" length="13522956" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%203%20-%20Implementing%20Kruskal%27s%20Algorithm%20via%20Union-Find%20I%20%289%20min%29%20%5Bf2558f1a%5D%20.mp4</guid>
+      <pubDate>Fri Jan 28 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Implementing Kruskal&#39;s Algorithm Via Union-find Ii</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%204%20-%20Implementing%20Kruskal%27s%20Algorithm%20via%20Union-Find%20II%20%2814%20min%29%20%5B6d0f84e6%5D%20.mp4" length="19792891" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%204%20-%20Implementing%20Kruskal%27s%20Algorithm%20via%20Union-Find%20II%20%2814%20min%29%20%5B6d0f84e6%5D%20.mp4</guid>
+      <pubDate>Sat Jan 29 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>14 min</itunes:duration>
+    </item>
+    <item>
+      <title>Msts: State-of-the-art And Open Questions [Advanced - Optional]</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%205%20-%20MSTs-%20State-of-the-Art%20and%20Open%20Questions%20%289%20min%29%20%5B8b682c9d%5D%20.mp4" length="14921328" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F6%20-%205%20-%20MSTs-%20State-of-the-Art%20and%20Open%20Questions%20%289%20min%29%20%5B8b682c9d%5D%20.mp4</guid>
+      <pubDate>Sun Jan 30 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Application To Clustering</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F7%20-%201%20-%20Application%20to%20Clustering%20%2812%20min%29%20%5B41211bfd%5D%20.mp4" length="15866710" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F7%20-%201%20-%20Application%20to%20Clustering%20%2812%20min%29%20%5B41211bfd%5D%20.mp4</guid>
+      <pubDate>Mon Jan 31 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>12 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Of Clustering Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F7%20-%202%20-%20Correctness%20of%20Clustering%20Algorithm%20%2810%20min%29%20%5B50b9b028%5D%20.mp4" length="12510026" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F7%20-%202%20-%20Correctness%20of%20Clustering%20Algorithm%20%2810%20min%29%20%5B50b9b028%5D%20.mp4</guid>
+      <pubDate>Tue Feb 01 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Introduction And Motivation</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%201%20-%20Introduction%20and%20Motivation%20%289%20min%29%20%5Bc3fa5362%5D%20.mp4" length="12464264" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%201%20-%20Introduction%20and%20Motivation%20%289%20min%29%20%5Bc3fa5362%5D%20.mp4</guid>
+      <pubDate>Wed Feb 02 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>9 min</itunes:duration>
+    </item>
+    <item>
+      <title>Problem Definition</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%202%20-%20Problem%20Definition%20%2810%20min%29%20%5Ba45565a8%5D%20.mp4" length="16093137" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%202%20-%20Problem%20Definition%20%2810%20min%29%20%5Ba45565a8%5D%20.mp4</guid>
+      <pubDate>Thu Feb 03 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>A Greedy Algorithm</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%203%20-%20A%20Greedy%20Algorithm%20%2817%20min%29%20%5B16506eac%5D%20.mp4" length="25895866" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%203%20-%20A%20Greedy%20Algorithm%20%2817%20min%29%20%5B16506eac%5D%20.mp4</guid>
+      <pubDate>Fri Feb 04 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>17 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof I</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%204%20-%20Correctness%20Proof%20I%20%2810%20min%29%20%5B9340eb0d%5D%20.mp4" length="13950646" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%204%20-%20Correctness%20Proof%20I%20%2810%20min%29%20%5B9340eb0d%5D%20.mp4</guid>
+      <pubDate>Sat Feb 05 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Correctness Proof Ii</title>
+      <itunes:author>Tim Roughgarden</itunes:author>
+      <enclosure url="http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%205%20-%20Correctness%20Proof%20II%20%2813%20min%29%20%5B5a973fb7%5D%20.mp4" length="17564805" type="video/mp4"/>
+      <guid>http://d19vezwu8eufl6.cloudfront.net/algo2/recoded_videos%2F9%20-%205%20-%20Correctness%20Proof%20II%20%2813%20min%29%20%5B5a973fb7%5D%20.mp4</guid>
+      <pubDate>Sun Feb 06 2011 00:00:00 GMT-0500 (EST)</pubDate>
+      <itunes:duration>13 min</itunes:duration>
+    </item>
+  </channel>
+</rss>

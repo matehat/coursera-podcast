@@ -10,7 +10,7 @@
     <itunes:summary>Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.</itunes:summary>
     <description>Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/neuralnets/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/neural_networks_for_machine_learning.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/neural-networks-for-machine-learning.xml" type="application/rss+xml"/>
     <item>
       <title>Why Do We Need Machine Learning? [13 Min]</title>
       <itunes:author>Geoffrey Hinton</itunes:author>

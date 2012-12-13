@@ -10,7 +10,7 @@
     <itunes:summary>Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.</itunes:summary>
     <description>Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/ml/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/machine_learning.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/machine-learning.xml" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
       <itunes:author>Andrew NG</itunes:author>

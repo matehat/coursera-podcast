@@ -10,7 +10,7 @@
     <itunes:summary>Learn about the inner workings of cryptographic primitives and how to apply this knowledge in real-world applications!</itunes:summary>
     <description>Learn about the inner workings of cryptographic primitives and how to apply this knowledge in real-world applications!</description>
     <itunes:image href="http://s3.amazonaws.com/coursera/topics/crypto/large-icon.png"/>
-    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/introduction_to_cryptography.xml" type="application/rss+xml"/>
+    <atom:link rel="self" href="http://www.matehat.com/coursera-podcast/feeds/introduction-to-cryptography.xml" type="application/rss+xml"/>
     <item>
       <title>Course Overview</title>
       <itunes:author>Dan Boneh</itunes:author>
