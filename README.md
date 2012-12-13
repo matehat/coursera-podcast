@@ -10,3 +10,5 @@ The `courses.json` file in the root folder is the list of course URLs from which
     $ ./generate
     
 On my MacBook Pro, it takes about 40 seconds to fetch and generate feeds for all courses.
+
+And, yeah, it works without credentials or any form of authentication.
