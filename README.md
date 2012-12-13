@@ -22,6 +22,6 @@ For it to work, you need to have node and coffee-script installed and their exec
 
 Then, in this project's root folder:
 
-    $ npm i jsdom jstoxml underscore.string
+    $ npm i jsdom jstoxml underscore.string moment
 
 
